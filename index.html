@@ -57,9 +57,9 @@ lang: en
 	<header id="header">
 		<div class="container main-menu">
 			<div class="row align-items-center justify-content-between d-flex">
-				<div id="logo">
+				<div>
 					<div style="width: 150%; overflow: hidden;">
-						<img style="float: left;" height="64" width="64" src="img/logo.svg">
+						<img id="logo" style="float: left;" height="64" width="64" src="img/logo.svg">
 						<p class="text vertical-center barlow" style="margin-left: 70px; font-size: 36px; color: black;">{{ site.data.snippets.app_title[page.lang] | upcase }}</p>
 					</div>
 				</div>
@@ -115,6 +115,9 @@ lang: en
 					<p>{{ site.data.snippets.no_need_joint_account[page.lang] }}</p>
 				</div>
 				
+			</div>
+			<div class="row align-items-center flex-column-reverse flex-lg-row">
+
 				<div class="col-lg-6 home-about-right home-about-right2">
 					<h1>{{ site.data.snippets.keep_record[page.lang] }}</h1>
 					<p>
@@ -133,7 +136,6 @@ lang: en
 	</section>
 	<!-- End about Area -->
 
-
 	<!-- Start about Area2 -->
 	<section class="about-area">
 		<div class="container">
@@ -149,8 +151,11 @@ lang: en
 						enim ad minim. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.
 					</p>
 				</div>
+
+			</div>
+			<div class="row align-items-center flex-column-reverse flex-lg-row">
 				
-				<div class="col-lg-6 home-about-right home-about-right2">
+				<div class="col-lg-6 home-about-right home-about-right2 flex-column-reverse flex-md-row">
 					<h1>{{ site.data.snippets.activity_log[page.lang] }}</h1>
 					<p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
