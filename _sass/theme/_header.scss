@@ -55,18 +55,24 @@
     margin: 0;
 }
 
+#app-title {
+    padding-left: 70px;
+}
+
 @media (max-width: 768px) {
     #header #logo h1 {
         font-size: 28px;
     }
     #header #logo {
         max-height: 48px;
+        margin-left: -2px;
     }
     #logo {
         width: 48px;
     }
-    #p {
+    #app-title {
         font-size: 28px;
+        padding-left: 50px;
     }
 }
 
