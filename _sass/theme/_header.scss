@@ -59,6 +59,11 @@
     padding-left: 70px;
 }
 
+#app-subtitle {
+    padding-left: 250px;
+    font-size: 26px;
+}
+
 @media (max-width: 768px) {
     #header #logo h1 {
         font-size: 28px;
@@ -73,6 +78,10 @@
     #app-title {
         font-size: 28px;
         padding-left: 50px;
+    }
+    #app-subtitle {
+        font-size: 18px;
+        padding-left: 230px;
     }
 }
 
