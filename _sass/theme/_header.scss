@@ -19,12 +19,20 @@
     z-index: 997;
 }
 
+#app-subtitle {
+    display: none;
+}
+
 .header-scrolled {
     background: #f1f4f7;
     transition: all 0.5s;
 
     .nav-menu a {
         color: black;
+    }
+
+    #app-subtitle {
+        display: block;
     }
 }
 
@@ -248,7 +256,7 @@
     font-weight: 900;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 992px) {
     // #mobile-nav-toggle {
     //     display: inline;
     // }
