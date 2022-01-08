@@ -4,9 +4,15 @@ app_title:
 app_subtitle:
   en: Budget. Couple. Simplicity.
   fr: 
-try_demo:
-  en: Try it free with your partner for 90 days!
-  fr: Essayez-la gratuitement avec votre partenaire pour 90 jours!
+try_demo_part1:
+  en: Try it
+  fr: Essayez-la
+try_demo_part2:
+  en: with your partner for 90 days!
+  fr: avec votre partenaire pour 90 jours!
+free:
+  en: free
+  fr: gratuitement
 easiest_way:
   en: The easiest way to split expenses and manage budgets with your partner.
   fr: La façon la plus facile de diviser les dépenses et gérer vos budgets avec votre partenaire.
