@@ -8,20 +8,20 @@ try_demo_part1:
   en: Try it
   fr: Essayez-la
 try_demo_part2:
-  en: with your partner for 90 days!
-  fr: avec votre partenaire pour 90 jours!
+  en: for 90 days!
+  fr: pour 90 jours!
 free:
   en: free
   fr: gratuitement
 easiest_way:
   en: The easiest way to split expenses and manage budgets with your partner.
-  fr: La façon la plus facile de diviser les dépenses et gérer vos budgets avec votre partenaire.
+  fr: La façon la plus simple de diviser les dépenses et gérer vos budgets avec votre partenaire.
 share:
   en: Share
   fr: Partager
 manage_separately:
-  en: A wise frontier between personal and couple budgets
-  fr: 
+  en: A smart frontier between personal and couple budgets
+  fr: Une frontière intelligente entre budgets de couple et personnel
 amount_due:
   en: See the amount due to your partner
   fr: Voyez le montant dû à votre partnenaire
@@ -30,19 +30,22 @@ share_expenses:
   fr: Partagez les dépenses avec votre partenaire
 keep_record:
   en: Time to settle up
-  fr: 
+  fr: C'est le temps de régler les comptes
 browse:
   en: Browse by keyword or category
   fr: Recherchez selon un mot-clé ou une catégorie
 set_budget:
-  en: Instant health checks of your budgets
-  fr: 
+  en: Your budgets at your fingertips
+  fr: Vos budgets au bout de vos doigts
 different_budget:
   en: Define a different budget each year
   fr: Définissez un budget différent à chaque année
 activity_log:
-  en: Your budgets at your fingertips
-  fr: Vos budgets au bout de vos doigts
+  en: Keep calm by
+  fr: Restez calme en
+duo_splitting:
+  en: Duo Splitting
+  fr: Duo Splittant
 keep_track_expense:
   en: Keep track of expenses and make sure each other pays their share.
   fr: Gardez une trace des dépenses et assurez-vous que chacun paie sa part.
@@ -50,17 +53,17 @@ features:
   en: Features
   fr: Fonctionnalités
 overview_panel_info:
-  en: All the benefits of a joint account without the drawbacks of the joint account. Say hello to Duo Split and easily manage your joint expenses. Either keep an expense in your personal budget or put it in the couple budget by specifying who paid which share. In-app reimbursements and auto-settlements is what will make you fall in love with Duo Split. 
-  fr: 
+  en: All the benefits of a joint account without their drawbacks. Say hello to Duo Split and easily manage your joint expenses. Either keep an expense in your personal budget or put it in the couple budget by specifying who paid which share. Also, only you can see your personal budget. In-app reimbursements and auto-accounting is what will make you fall in love with Duo Split.
+  fr: Tous les avantages d'un compte conjoint sans leurs désavantages. Saluez Duo Split et gérez facilement vos dépenses communes. Gardez une dépense soit dans votre budget personnel ou votre budget de couple en précisant qui a payé quelle part. De plus, vous seul pouvez consulter votre budget personnel. Les remboursements intégrés à même l'application et la comptabilité automatique sont les atouts qui vous feront tomber en amour avec Duo Split. 
 history_panel_info:
-  en: Worriless expense splitting by knowing who paid which share of an expense. No more challenging expense accounting and error prone settlements. At any time you can now know who owns what to the other partner. Payment options include joint accounts for people who simply can't say goodbye to it.
-  fr: 
+  en: Worriless expense splitting by knowing who paid which share of an expense. No more challenging expense accounting and error prone settlements. At any time you can know how much you owe to your partner. Payment options include joint account for people who simply can't say goodbye to it.
+  fr: Séparez les dépenses sans souci en sachant qui a payé quelle part d'une dépense. Finis la comptabilité ardue des dépenses et les remboursements sujets aux erreurs. À tout moment, sachez combien d'argent vous devez à votre partenaire. Les options de paiement incluent un compte conjoint pour les personnes qui ne peuvent pas y renoncer.
 budget_panel_info:
-  en: Keeping track of budgets that can evolve over years is crucial to achieve your goals. Duo Split helps you establish annual and monthly budgets. Know at any given time if you are in the right direction to meet your budgets.
-  fr: 
+  en: Keeping track of budgets that evolve over the years is crucial to achieve your goals. Duo Split helps you establish annual and monthly budgets. Budget health checks help you know if you are in the right direction.
+  fr: Garder une trace des budgets qui évoluent au fil des années est crucial pour l'atteinte de vos objectifs. Duo Split vous aide à établir des budgets annuels et mensuels. Les bilans de santé budgétaires vous aident à savoir si vous êtes dans la bonne direction.
 activity_panel_info:
-  en: Trust is the most important thing in a couple. Know at any given time which modification have been done to a budget. You don't have to worry about your partner modifiying the couple budget without your consent. Also, only you can see your personal budget.
-  fr: 
+  en: Trust is the most important thing in a relationship. Stay tuned of the most recent changes on your budgets. You don't have to worry about your partner modifiying the couple budget without your consent.
+  fr: La confiance est la chose la plus importante dans une relation. Restez à l'affût des changements les plus récents sur vos budgets. N'ayez crainte que votre partenaire modifie le budget de couple sans votre consentement.
 featured_screens:
   en: Featured Screens
   fr: 
