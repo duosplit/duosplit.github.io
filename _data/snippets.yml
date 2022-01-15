@@ -41,8 +41,11 @@ different_budget:
   en: Define a different budget each year
   fr: Définissez un budget différent à chaque année
 activity_log:
-  en: Keep calm by Duo Splitting
-  fr: Restez calme en Duo Splittant
+  en: Keep calm by
+  fr: Restez calme en
+duo_splitting:
+  en: Duo Splitting
+  fr: Duo Splittant
 keep_track_expense:
   en: Keep track of expenses and make sure each other pays their share.
   fr: Gardez une trace des dépenses et assurez-vous que chacun paie sa part.

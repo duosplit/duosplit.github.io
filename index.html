@@ -1,5 +1,5 @@
 ---
-lang: fr
+lang: en
 ---
 
 <!DOCTYPE html>
@@ -164,7 +164,10 @@ lang: fr
 			<div class="row align-items-center flex-column-reverse flex-lg-row">
 				
 				<div class="col-lg-6 home-about-right flex-column-reverse flex-md-row">
-					<h1>{{ site.data.snippets.activity_log[page.lang] }}</h1>
+					<h1>
+						{{ site.data.snippets.activity_log[page.lang] }}
+						<mark style="background-color: transparent; font-style: italic; padding: 0;">{{ site.data.snippets.duo_splitting[page.lang] }}</mark>
+					</h1>
 					<p>{{ site.data.snippets.activity_panel_info[page.lang] }}</p>
 				</div>
 				<div class="col-lg-5 home-about-left">
