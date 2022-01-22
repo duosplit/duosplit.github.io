@@ -76,6 +76,12 @@ social_media_info:
 blog_news:
   en: Blog & news
   fr: Blogue et nouvelles
+call_to_action:
+  en: Do you still need a joint account?
+  fr:
+download_the_app:
+  en: Download the app right now to get started!
+  fr: 
 faq_title:
   en: FAQ
   fr: FAQ
@@ -89,7 +95,7 @@ faq_items:
     a:
       en: 
       fr: | 
-        Duo Split s'adresse aux couples qui souhaitent simplifier la gestion des leurs dépenses.
+        Duo Split s'adresse aux couples qui souhaitent simplifier la gestion de leurs dépenses.
   - q:
       en: 
       fr: Quelles sont les avantages de Duo Split par rapport à un compte conjoint?
