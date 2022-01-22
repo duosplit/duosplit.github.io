@@ -109,42 +109,35 @@ faq_items:
     a: 
       en: 
       fr: |
-        Maintenir un budget de couple amène son lot de préoccupations et c’est dans ce domaine que Duo Split se démarque. La séparation des dépenses de couple et la comptabilisation des sommes dues entre partenaires en temps réel sont les éléments caractérisant Duo Split. Chaque application répond à des besoins mais il reste à savoir si elle répond à vos besoins.
-  - q: 
-      en: 
-      fr: Pourquoi ne pas simplement utiliser l'application mobile que ma banque offre pour voir mes comptes?
-    a: 
-      en: 
-      fr: |
-        Les applications offertes par les banques sont de bonnes avenues pour voir la santé des comptes détenus à même cette institution. La gestion d'un budget de couple est tout autre chose. Duo Split offre la possibilité de rembourser son partenaire sans avoir à faire de virement bancaire.
+        Maintenir un budget de couple amène son lot de préoccupations et c’est dans ce domaine que Duo Split se démarque. La séparation des dépenses de couple et la comptabilisation des sommes dues entre partenaires en temps réel sont les éléments caractérisant Duo Split. Chaque application répond à des besoins, mais il reste à savoir si elle répond à vos besoins.
   - q:
       en: 
-      fr: Puis-je l'utiliser même si mon partenaire n'a pas Duo Split?
+      fr: Puis-je utiliser Duo Split même si mon partenaire ne l'a pas?
     a:
       en: 
       fr: |
-        Oui. Votre couple peut profiter des bienfaits de Duo Split à tout moment. Votre partenaire pourra accéder à tout moment au budget de couple que vous maintiendrez.
-  - q:
-      en: 
-      fr: Est-il possible d'aggréger les données bancaires?
-    a:
-      en: 
-      fr: |
-        Non. Aucune information personnelle ou bancaire n'est inscrite dans Duo Split. Il n'y a donc aucun risque d’usurpation d’identité.
+        Oui. Il suffit d'ajouter les dépenses de couple via votre compte Duo Split. Si la dépense a été faite par votre partenaire, spécifiez cette information au moment d'ajouter la dépense.
   - q:
       en: 
       fr: Est-ce possible d'inscrire les entrées d'argent dans Duo Split?
     a:
       en: 
       fr: |
-        Non. De façon générale, les entrées d'argent sont plus constantes que les sorties d’argent. Réévaluer bi-annuellement vos entrées d’argent suffit, contrairement aux dépenses, qui elles varient constamment.
+        Non. De façon générale, les entrées d'argent sont plus constantes que les sorties d’argent. Réévaluer bi-annuellement vos entrées d’argent suffit, alors que les dépenses varient constamment.
   - q:
       en: 
       fr: Combien coûte Duo Split?
     a:
       en: 
       fr: |
-        36$ par année. Une licence annuelle de Duo Split revient à verser trois dollars chaque mois pour le bien être de vos finances.
+        36$ par année. Une licence annuelle de Duo Split revient à verser 3$ chaque mois pour le bien être de vos finances.
+  - q:
+      en: 
+      fr: Est-ce qu'une dépense faite par carte de paiement se retrouve dans Duo Split?
+    a:
+      en: 
+      fr: |
+        Non. Aucune information personnelle ou bancaire n'est inscrite dans Duo Split. Il n'y a donc aucun risque d’usurpation d’identité.
   - q:
       en: 
       fr: Est-ce sécuritaire?
