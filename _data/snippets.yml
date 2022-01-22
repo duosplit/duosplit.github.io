@@ -95,21 +95,21 @@ faq_items:
     a:
       en: 
       fr: | 
-        Duo Split s'adresse aux couples qui souhaitent simplifier la gestion de leurs dépenses.
+        Duo Split s'adresse aux couples souhaitant simplifier la gestion de leurs dépenses. Pour ceux et celles qui n'ont pas de dépenses à partager, il suffit d'utiliser uniquement le budget personnel.
   - q:
       en: 
       fr: Quelles sont les avantages de Duo Split par rapport à un compte conjoint?
     a:
       en: 
       fr: |
-        Le compte conjoint est bien souvent la solution de-facto pour les couples n'ayant pas d'alternatives pour maintenir un budget juste et équitable. Mettre tous ses oeufs dans le même panier réserve de nombreuses surprises en cas de séparation ou de décès. Sans parler des préoccupations lorsque vient le temps de renflouer le coffre. Utiliser Duo Split permet d'avoir la simplicité d'un compte conjoint sans ses tracas. Duo Split supporte même le paiement via un compte conjoint, conçue pour les couples utilisant présentement un compte conjoint.
+        Le compte conjoint est la solution intuitive pour les couples n'ayant pas d'alternatives pour maintenir un budget juste et équitable. Cependant, un bris de confiance ou une séparation menace à tout moment l'accès à un compte conjoint. Utiliser Duo Split permet d'avoir la simplicité d'un compte conjoint sans ses tracas. Duo Split supporte même le paiement via un compte conjoint, conçue pour les couples utilisant présentement un compte conjoint.
   - q: 
       en: 
       fr: Quelles sont les différences entre Duo Split et les autres applications de finances personnelles?
     a: 
       en: 
       fr: |
-        Maintenir un budget de couple amène son lot de préoccupations et c’est dans ce domaine que Duo Split se démarque. La séparation des dépenses de couple et la comptabilisation des sommes dues au partenaire en temps réel, le tout de façon simple et sécuritaire sont les éléments qui caractérisent Duo Split. Chaque application répond à des besoins mais il reste à savoir si elle répond à vos besoins.
+        Maintenir un budget de couple amène son lot de préoccupations et c’est dans ce domaine que Duo Split se démarque. La séparation des dépenses de couple et la comptabilisation des sommes dues entre partenaires en temps réel sont les éléments caractérisant Duo Split. Chaque application répond à des besoins mais il reste à savoir si elle répond à vos besoins.
   - q: 
       en: 
       fr: Pourquoi ne pas simplement utiliser l'application mobile que ma banque offre pour voir mes comptes?
@@ -124,13 +124,6 @@ faq_items:
       en: 
       fr: |
         Oui. Votre couple peut profiter des bienfaits de Duo Split à tout moment. Votre partenaire pourra accéder à tout moment au budget de couple que vous maintiendrez.
-  - q:
-      en: 
-      fr: Puis-je utiliser Duo Split même si je ne suis pas en couple?
-    a:
-      en: 
-      fr: |
-        Oui. Il suffit de n'utiliser que le budget personnel dans ce cas. Vous pourrez par la suite utiliser un budget de couple, si l'occasion se présente.
   - q:
       en: 
       fr: Est-il possible d'aggréger les données bancaires?
