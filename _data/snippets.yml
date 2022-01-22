@@ -88,6 +88,12 @@ yxz:
 faq_items:
   - q:
       en: 
+      fr: À qui s'adresse Duo Split?
+    a:
+      en: 
+      fr: Duo Split s'adresse principalement aux couples qui souhaitent simplifier la gestion des leurs dépenses.
+  - q:
+      en: 
       fr: Quelles sont les avantages par rapport à un compte conjoint?
     a:
       en: 
@@ -95,10 +101,10 @@ faq_items:
         Duo Split supporte l’utilisation du compte conjoint, bien que cette façon de faire ait ses lacunes. En effet, un compte conjoint ne permet pas d’investir au même titre qu’un compte personnel. Sans compter les nombreuses surprises qui peuvent arriver en cas de séparation, ou mêmes les préoccupations lorsque vient le temps de renflouer le coffre.
         Utiliser son compte personnel et Duo Split évite d’avoir à gérer tous les inconvénients d’un compte conjoint. Ce type de compte est bien trop souvent la solution de-facto pour les couples n’ayant pas trouvé de façon de maintenir un budget de façon juste et équitable, ou simplement ceux qui souhaitent laisser leur argent dormir dans un compte.
   - q: 
-      en: question
+      en: 
       fr: Quelle sont les différences avec les autres applications de finances personnelles?
     a: 
-      en: answer2
+      en: 
       fr: |
         Une panoplie d’applications de consignation de dépenses s’offre à vous. Lorsque vous en choisissez une, assurez-vous qu’elle réponde à tous vos critères, par exemple:
         Le maintien des budgets personnels et de couple;
@@ -108,73 +114,71 @@ faq_items:
         Duo Split, se différenciant par ses méthodes de séparation de dépenses entre différents budgets, présente une alternative intéressante. Maintenir un budget de couple amène son lot de préoccupations, et c’est dans ce domaine que Duo Split se démarque.
   - q: 
       en: question
-      fr: Pour ne pas simplement utiliser l'application mobile que me banque offre pour voir mes comptes?
+      fr: Pourquoi ne pas simplement utiliser l'application mobile que ma banque offre pour voir mes comptes?
     a: 
       en: answer2
       fr: |
         Les services que les banques offrent sont de bonnes avenues pour voir la santé des comptes détenus dans cette institution-même. C’est lorsque l’on désire consolider l’information entre plusieurs comptes à travers différentes banques que les choses se compliquent. Sans mentionner qu’il n’est pas possible d’ajouter des dépenses manuellement à même l’application bancaire, comptabiliser des remboursements entre partenaires, ou bien même définir différents budgets, par exemple. L’objectif de l’application bancaire est d’afficher les transactions, sans toutefois gérer des budgets personnels et de couples personnalisés.
   - q:
       en: 
+      fr: Puis-je l'utiliser même si mon partenaire n'a pas Duo Split?
+    a:
+      en: 
+      fr: |
+        Oui. Votre couple peut profiter des avantages de Duo Split même si votre partenaire n'a pas Duo Split. Votre partenaire pourra accéder à tout moment au budget de couple que vous maintiendrez.
+  - q:
+      en: 
       fr: Puis-je utiliser Duo Split même si je ne suis pas en couple?
     a:
       en: 
       fr: |
-        Bien que conçu pour les couples, il est possible de n’utiliser que le budget personnel. Vous pourrez, à tout moment, créer le nombre de budgets de couples que vous le souhaitez.
+        Oui. Il suffit de n'utiliser que le budget personnel dans ce cas. Vous pourrez par la suite utiliser un budget de couple, si l'occasion se présente.
   - q:
       en: 
       fr: Est-il possible d'aggréger les données bancaires?
     a:
       en: 
       fr: |
-        Faites attention aux applications tierces miroitant une synchronisation avec vos comptes bancaires. Le risque d’usurpation d’identité est accru vu les méthodes auxquelles ces dites applications ont accès à vos données financières. Il y a un risque accru de ne pas être couvert en cas de litige ou usurpation d’identité lorsque ces applications sont connectées à vos comptes. Le risque n’en vaut pas la chandelle.
+        Non. Aucune information personnelle ou bancaire n'est inscrite dans Duo Split. Il n'y a donc aucun risque d’usurpation d’identité.
   - q:
       en: 
-      fr: Pourquoi n'est-il pas possible d'inscrire les entrées d'argent?
+      fr: Est-ce possible d'y inscrire les entrées d'argent?
     a:
       en: 
       fr: |
-        Les entrées d’argent sont généralement plus constants que les sorties d’argent. De façon générale, réévaluer bi-annuellement vos entrées d’argent suffit, contrairement aux dépenses, qui elles varient constamment.
+        Non. Les entrées d’argent sont généralement plus constants que les sorties d’argent. De façon générale, réévaluer bi-annuellement vos entrées d’argent suffit, contrairement aux dépenses, qui elles varient constamment.
   - q:
       en: 
       fr: Quel est le prix?
     a:
       en: 
       fr: |
-        Une licence annuelle de Duo Split revient à verser trois dollars chaque mois pour le bien être de vos finances. Tout est relatif… ;)
-  - q:
-      en: 
-      fr: Puis-je l'utiliser même si mon partenaire n'a pas Duo Split?
-    a:
-      en: 
-      fr: |
-        Bien que disponible uniquement sur Android, il est possible de maintenir le compte du couple sur un seul appareil. Vous pouvez ainsi profiter de toutes les fonctionnalités de Duo Split en n’utilisant qu’un seul appareil. Il suffit de créer un compte à votre partenaire, puis créer un budget de couple. Votre partenaire pourra accéder à tout moment au budget de couple que vous aurez créé.
+        36$ par année. Une licence annuelle de Duo Split revient à verser trois dollars chaque mois pour le bien être de vos finances.
   - q:
       en: 
       fr: Est-ce sécuritaire?
     a:
       en: 
       fr: |
-        Duo Split n’est pas connecté à aucune institution financière, ni tierce partie. Il n’y a donc aucune information personnelle nominative qui est extirpée de quelconque façon que ce soit de vos comptes bancaires. La gestion de compte se fait via un compte Google pour l’authentification. Seul le nom associé à votre compte Google est sauvegardé. Finalement, la transmission des données est faite via une connexion sécurisée.
+        Oui. Duo Split n’est pas connecté à aucune institution financière, ni tierce partie. Il n’y a donc aucune information personnelle nominative qui est extirpée de quelconque façon que ce soit de vos comptes bancaires. La gestion de compte se fait via un compte Google pour l’authentification. Seul le nom associé à votre compte Google est sauvegardé. Finalement, la transmission des données est faite via une connexion sécurisée.
   - q:
       en: 
-      fr: Puis-je exporter mes données?
+      fr: Puis-je exporter mes données vers un classeur?
     a:
       en: 
       fr: |
-        Bien que maintenir ses dépenses dans un classeur soit périlleux, il reste que pour faire des calculs avancés ou simplement archiver ses données un classeur est bien. Il est possible à tout moment d’exporter les données des budgets de Duo Split.
+        Oui. Il est possible à tout moment d’exporter les données des budgets de Duo Split.
   - q:
       en: 
       fr: Est-ce que cette solution est homologuée par une autorité financière?
     a:
       en: 
       fr: |
-        La comptabilisation des dépenses et le suivi du budget ne requièrent aucunement des compétences professionnelles en finance. Toutefois, si vous en sentez le besoin, vous pouvez faire appel à un conseiller financier, qui pourra vous aider à monter un budget. Vous serez par la suite plus à l’aise lorsque viendra le temps d’en faire le suivi avec Duo Split.
+        Non. Duo Split est une application de comptabilisation des dépenses et de suivi de budget. Toutefois, si vous en sentez le besoin, vous pouvez faire appel à un conseiller financier accrédité qui pourra vous aider à monter un budget. 
   - q:
       en: 
-      fr: Pour combien de temps est-ce que mes dépenses sont enregistrées?
+      fr: Pour combien de temps est-ce que mes budgets sont enregistrées?
     a:
       en:
-      fr:
-
-
-
+      fr: |
+        Les budget synchronisés dans l'infonuagique de Duo Split sont conservés indéfiniment.
