@@ -3,7 +3,7 @@ app_title:
   fr: Duo Split
 app_subtitle:
   en: Budget. Couple. Simplicity.
-  fr: 
+  fr: Budget. Couple. Simplicité.
 try_demo_part1:
   en: Try it
   fr: Essayez-la
@@ -66,25 +66,22 @@ activity_panel_info:
   fr: La confiance est la chose la plus importante dans une relation. Restez à l'affût des changements les plus récents sur vos budgets. N'ayez crainte que votre partenaire modifie le budget de couple sans votre consentement.
 featured_screens:
   en: Featured Screens
-  fr: 
+  fr: Captures d'écran
 featured_screens_info: 
-  en: Here are some in-app screenshots. Try the demo to get familiar with the app.
-  fr: 
+  en: Here is what Duo Split looks like.
+  fr: Voici à quoi ressemble Duo Split.
 social_media_info:
   en: Like Duo Split? Let others know!
-  fr: 
+  fr: Vous aimez Duo Split? Faites passer le mot!
 blog_news:
   en: Blog & news
-  fr: 
+  fr: Blogue et nouvelles
 faq_title:
   en: FAQ
-  fr: 
+  fr: FAQ
 faq_subtitle:
-  en: Common questions that users have before using.
-  fr: 
-yxz:
-  en: 
-  fr: 
+  en: Here are answers to common questions related to Duo Split. 
+  fr: Voici des réponses à des questions relatives à Duo Split.
 faq_items:
   - q:
       en: 
@@ -137,7 +134,7 @@ faq_items:
         Non. Aucune information personnelle ou bancaire n'est inscrite dans Duo Split. Il n'y a donc aucun risque d’usurpation d’identité.
   - q:
       en: 
-      fr: Est-ce possible d'y inscrire les entrées d'argent?
+      fr: Est-ce possible d'inscrire les entrées d'argent dans Duo Split?
     a:
       en: 
       fr: |
