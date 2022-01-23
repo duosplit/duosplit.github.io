@@ -49,6 +49,9 @@ duo_splitting:
 keep_track_expense:
   en: Keep track of expenses and make sure each other pays their share.
   fr: Gardez une trace des dépenses et assurez-vous que chacun paie sa part.
+contact:
+  en: Contact
+  fr: Contact
 features:
   en: Features
   fr: Fonctionnalités

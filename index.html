@@ -1,4 +1,6 @@
 ---
+custom_js: true
+
 lang: en
 ---
 
@@ -78,9 +80,9 @@ lang: en
 				</div>
 				<nav id="nav-menu-container">
 					<ul class="nav-menu">
-						<li><a href="#features">Features</a></li>
-						<li><a href="#faq">FAQ</a></li>
-						<li><a href="#share">Share</a></li>
+						<li><a href="#features">{{ site.data.snippets.features[page.lang] }}</a></li>
+						<li><a href="#faq">{{ site.data.snippets.faq_title[page.lang] }}</a></li>
+						<li><a href="#share">{{ site.data.snippets.share[page.lang] }}</a></li>
 						<!-- <li><a href="pricing.html">Pricing</a></li>
 						<li class="menu-has-children"><a href="">Blog</a>
 							<ul>
@@ -88,7 +90,7 @@ lang: en
 								<li><a href="blog-single.html">Blog Single</a></li>
 							</ul>
 						</li> -->
-						<li><a href="mailto:support@duosplit.com">Contact</a></li>
+						<li><a href="mailto:support@duosplit.com">{{ site.data.snippets.contact[page.lang] }}</a></li>
 					</ul>
 				</nav>
 			</div>
