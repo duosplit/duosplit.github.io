@@ -266,10 +266,10 @@ lang: en
 				<ul id="faq-list" data-aos="fade-up" class="aos-init" style="width: -webkit-fill-available;">
 					{% for item in site.data.snippets.faq_items %}
 						<li>
-							<a data-toggle="collapse" class="collapsed" href="#faq{{forloop.index}}" aria-expanded="false">{{ item.q["fr"] }} <i class="ion-android-remove"></i></a>
+							<a data-toggle="collapse" class="collapsed" href="#faq{{forloop.index}}" aria-expanded="false">{{ item.q[page.lang] }} <i class="ion-android-remove"></i></a>
 							<div id="faq{{forloop.index}}" class="collapse" data-parent="#faq-list" style="">
 							<p>
-								{{ item.a["fr"] }}
+								{{ item.a[page.lang] }}
 							</p>
 							</div>
 						</li>
