@@ -5,6 +5,8 @@
 
 .footer-area {
     background: $title-color;
+    padding-top: 10px;
+    padding-bottom: 10px;
     .single-footer-widget {
         @media(max-width: 991px) {
             margin-bottom:30px;
