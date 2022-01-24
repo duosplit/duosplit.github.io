@@ -1,3 +1,11 @@
+// translations
+var userLang = navigator.language || navigator.userLanguage;
+var onFrenchPage = window.location.href.includes("fr");
+
+if (!onFrenchPage && userLang.includes("fr")) {
+    window.location = '/fr';
+}
+
 
 $(document).ready(function () {
     "use strict";
@@ -400,16 +408,6 @@ $(document).ready(function () {
         document.getElementsByTagName("html")[0].style.visibility = "visible";
     });
 
-
-
-    $(document).ready(function () {
-        var userLang = navigator.language || navigator.userLanguage;
-        var onFrenchPage = window.location.href.includes("fr");
-
-        if (!onFrenchPage && userLang.includes("fr")) {
-            window.location = '/fr';
-        }
-    });
 
 
 });
