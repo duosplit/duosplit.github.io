@@ -402,9 +402,14 @@ $(document).ready(function () {
 
 
 
+    $(document).ready(function () {
+        var userLang = navigator.language || navigator.userLanguage;
+        var onFrenchPage = window.location.href.includes("fr");
 
-
-
+        if (!onFrenchPage && userLang.includes("fr")) {
+            window.location = '/fr';
+        }
+    });
 
 
 });
