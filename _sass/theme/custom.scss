@@ -24,14 +24,14 @@ button {
   color: white;
 }
 
-.fa-youtube {
-  background: #bb0000;
-  color: white;
-}
-
 .fa-medium {
   background: white;
   color: #73f28e;
+}
+
+.fa-youtube-square::before {
+  content: "\f431";
+  color: #bb0000;
 }
 
 .roboto {
