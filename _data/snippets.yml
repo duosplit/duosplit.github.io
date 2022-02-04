@@ -19,6 +19,9 @@ og_image_url:
 video_url:
   en: https://www.youtube.com/embed/pl8aspYh5NE
   fr: https://www.youtube.com/embed/pl8aspYh5NE
+img_path:
+  en: /screenshots/en/
+  fr: /screenshots/fr/
 discover:
   en: Discover Duo Split!
   fr: Découvrez Duo Split!
