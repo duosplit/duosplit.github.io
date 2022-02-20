@@ -1,8 +1,9 @@
 // translations
 var userLang = navigator.language || navigator.userLanguage;
 var onFrenchPage = window.location.href.includes("fr");
+var onVolunteerEnglishPage = window.location.href.includes("en");
 
-if (!onFrenchPage && userLang.includes("fr")) {
+if (!onFrenchPage && userLang.includes("fr") && !onVolunteerEnglishPage) {
     window.location = '/fr';
 }
 
