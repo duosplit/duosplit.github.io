@@ -20,8 +20,8 @@ privacy_policy:
   en: Privacy policy
   fr: Politique de vie privée
 privacy_policy_content:
-  en: Each Duo Split account is linked to the Gmail address associated with your Google Account. This email is persisted into Duo Split's cloud storage as well as on the mobile device. It is the only data that is retrieved from a Google account. The rest of the data that is stored comes from the user itself, not a third party service. The Gmail address can possibly be used to contact a user directly by email. In this case, communications are related to Duo Split only and not affiliated marketing. 
-  fr: 
+  en: Each Duo Split account is linked to the Gmail address associated with a Google Account. This email is persisted into Duo Split's cloud storage as well as on the mobile device. It is the only data that is retrieved from a Google account. The rest of the data that is stored comes from the user itself, not a third party service. The Gmail address can possibly be used to contact a user directly by email. In this case, communications are related to Duo Split only and not affiliated marketing. 
+  fr: Chaque compte Duo Split est lié à l'adresse Gmail associée un compte Google. Cette adresse courriel est conservé dans le stockage infonuagique de Duo Split ainsi que sur l'appareil mobile. C'est la seule donnée extraite d'un compte Google. Le reste des données stockées provient de l'utilisateur lui-même, et non d'un service tiers. L'adresse Gmail peut éventuellement être utilisée pour contacter directement un utilisateur par email. Dans ce cas, les communications concernent uniquement Duo Split et non de la commercialisation affiliée.
 video_url:
   en: https://www.youtube.com/embed/pl8aspYh5NE
   fr: https://www.youtube.com/embed/pl8aspYh5NE
