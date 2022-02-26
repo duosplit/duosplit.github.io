@@ -176,13 +176,13 @@ faq_items:
       fr: |
         Non. Aucune information personnelle ou bancaire n'est inscrite dans Duo Split. Il n'y a donc aucun risque d’usurpation d’identité.
   - q:
-      en: Is it safe?
-      fr: Est-ce sécuritaire?
+      en: How the security of my data is ensured?
+      fr: Comment la sécurité de mes informations personnelles est assurée?
     a:
       en: |
-        Yes. Duo Split is not associated with any financial institution or third party. No personally identifiable information is taken from your bank accounts. The data is stored in Duo Split's cloud computing. Only the name associated with your Google account is saved. Finally, the transmission of data is done via a secure connection.
+        Duo Split is not associated with any financial institution or third party. No personally identifiable information is taken from your bank accounts. The data is stored in Duo Split's cloud computing. Data transmission is done via a secure connection.
       fr: |
-        Oui. Duo Split n’est associé à aucune institution financière ni tierce partie. Il n’y a aucune information personnelle nominative qui est extirpée de vos comptes bancaires. Les données sont storées dans l'infonuagique de Duo Split. Seul le nom associé à votre compte Google est sauvegardé. Finalement, la transmission des données est faite via une connexion sécurisée.
+        Duo Split n’est associé à aucune institution financière ni tierce partie. Il n’y a aucune information personnelle nominative qui est extirpée de vos comptes bancaires. Les données sont storées dans l'infonuagique de Duo Split. La transmission des données est faite via une connexion sécurisée.
   - q:
       en: Can I back up my data to a spreadsheet?
       fr: Puis-je sauvegarder mes données vers un classeur?
