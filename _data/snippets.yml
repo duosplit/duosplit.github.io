@@ -183,9 +183,9 @@ faq_items:
       fr: Comment la sécurité de mes informations personnelles est assurée?
     a:
       en: |
-        Duo Split is not associated with any financial institution or third party. No personally identifiable information is taken from your bank accounts. The data is stored in Duo Split's cloud computing. Data transmission is done via a secure connection.
+        Duo Split is not associated with any financial institution or third party. No personally identifiable information is taken from your bank accounts. Data transmission is done via a secure connection.
       fr: |
-        Duo Split n’est associé à aucune institution financière ni tierce partie. Il n’y a aucune information personnelle nominative qui est extirpée de vos comptes bancaires. Les données sont storées dans l'infonuagique de Duo Split. La transmission des données est faite via une connexion sécurisée.
+        Duo Split n’est associé à aucune institution financière ni tierce partie. Il n’y a aucune information personnelle nominative qui est extirpée de vos comptes bancaires. La transmission des données est faite via une connexion sécurisée.
   - q:
       en: Can I back up my data to a spreadsheet?
       fr: Puis-je sauvegarder mes données vers un classeur?
