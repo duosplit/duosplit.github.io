@@ -18,7 +18,7 @@ $(document).ready(function () {
         fitscreen = window_height - header_height;
 
 
-    $(".fullscreen").css("height", "800px")
+    $(".fullscreen").css("min-height", "100vh")
     $(".fitscreen").css("height", fitscreen);
 
     if (document.getElementById("default-select")) {
