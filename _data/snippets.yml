@@ -104,11 +104,14 @@ featured_screens_info:
   en: Here is what Duo Split looks like in action.
   fr: Voici à quoi ressemble Duo Split en action.
 social_media_info:
-  en: Like Duo Split? Let others know!
-  fr: Vous aimez Duo Split? Faites passer le mot!
-blog_medias:
-  en: Blog & medias
-  fr: Blogue et médias
+  en: Like Duo Split?
+  fr: Vous aimez Duo Split?
+let_others_know:
+  en: Let others know!
+  fr: Faites passer le mot!
+medias:
+  en: Medias
+  fr: Médias
 call_to_action:
   en: Do you really need a joint account?
   fr: Avez-vous vraiment besoin d'un compte conjoint?
