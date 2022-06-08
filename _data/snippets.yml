@@ -44,11 +44,11 @@ discover:
   en: Discover Duo Split!
   fr: Découvrez Duo Split!
 try_demo_part1:
-  en: Get it for
-  fr: Obtenez-la
+  en: Get it now for
+  fr: Obtenez-la dès maintenant
 try_demo_part2:
-  en: now!
-  fr: dès maintenant!
+  en: "!"
+  fr: "!"
 free:
   en: free
   fr: gratuitement
