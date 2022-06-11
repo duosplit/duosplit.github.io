@@ -436,6 +436,8 @@ thisForm.addEventListener('submit', async function (e) {
         console.log("An occurred while subscribing to newsletter, please try again")
     }
 });
+var emailField = document.getElementById('emailField')
+emailField.addEventListener('keydown', resetSubscribeButton);
 function resetSubscribeButton() {
     var lang = window.lang
     var subscribeText = lang == "en" ? "Subscribe" : "S'abonner"

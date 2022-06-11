@@ -136,8 +136,8 @@
 	
 			<div>
 				<form id="newsletterForm" action="">
-					<input type="email" name="email" minlength="5" maxlength="60" required onkeydown="resetSubscribeButton()" placeholder="{{ site.data.snippets.newsletter_email_placeholder[page.lang] }}" />
-					<input type="submit" name="submit" id="submit" value="{{ site.data.snippets.newsletter_email_action[page.lang] }}">
+					<input id="emailField" type="email" name="email" minlength="5" maxlength="60" required placeholder="{{ site.data.snippets.newsletter_email_placeholder[page.lang] }}" />
+					<input id="submit" type="submit" name="submit" value="{{ site.data.snippets.newsletter_email_action[page.lang] }}">
 				</form>
 			</div>
 		</div>
