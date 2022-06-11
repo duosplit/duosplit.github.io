@@ -136,8 +136,8 @@
 	
 			<div>
 				<form id="newsletterForm" action="">
-					  <input type="email" name="email" placeholder="{{ site.data.snippets.newsletter_email_placeholder[page.lang] }}" />
-					  <input type="submit" name="submit" id="submit" minlenght="5" maxlength="60" value="{{ site.data.snippets.newsletter_email_action[page.lang] }}">
+					<input type="email" name="email" minlength="5" maxlength="60" required placeholder="{{ site.data.snippets.newsletter_email_placeholder[page.lang] }}" />
+					<input type="submit" name="submit" id="submit" value="{{ site.data.snippets.newsletter_email_action[page.lang] }}">
 				</form>
 			</div>
 		</div>
@@ -420,4 +420,16 @@
 	</script>
 </body>
 
+{% if page.lang == "en" %}
+<script>
+  	window.lang = "en";
+</script>
+{% elsif page.lang == "fr" %}
+<script>
+	window.lang = "fr";
+</script>
+{% endif %}
+
 </html>
+
+
