@@ -436,6 +436,13 @@ thisForm.addEventListener('submit', async function (e) {
         console.log("An occurred while subscribing to newsletter, please try again")
     }
 });
+function resetSubscribeButton() {
+    var lang = window.lang
+    var subscribeText = lang == "en" ? "Subscribe" : "S'abonner"
+    var submitButton = $("input[type=submit]", thisForm)[0];
+    submitButton.value = subscribeText
+    submitButton.style = "background: #1a82c4;"
+}
 
 
 
