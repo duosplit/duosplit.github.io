@@ -415,7 +415,7 @@ $(document).ready(function () {
 
 // newsletter
 var DEV_URL = "http://localhost:5000/api/v3/subscribe?email="
-var PROD_URL = "http://duosplit.com/api/v3/subscribe?email="
+var PROD_URL = "https://app.duosplit.com/api/v3/subscribe?email="
 const thisForm = document.getElementById('newsletterForm');
 thisForm.addEventListener('submit', async function (e) {
     e.preventDefault();
