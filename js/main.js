@@ -427,7 +427,7 @@ thisForm.addEventListener('submit', async function (e) {
         return;
     }
 
-    const response = await fetch(TEST_URL + email);
+    const response = await fetch(PROD_URL + email);
     var statusCode = response.status
 
     if (statusCode == 200 || statusCode == 409) {
