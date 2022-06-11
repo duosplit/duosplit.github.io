@@ -409,6 +409,28 @@ $(document).ready(function () {
         document.getElementsByTagName("html")[0].style.visibility = "visible";
     });
 
+});
 
 
+
+// newsletter
+const thisForm = document.getElementById('newsletterForm');
+thisForm.addEventListener('submit', async function (e) {
+    e.preventDefault();
+    const formData = new FormData(thisForm).entries()
+    var email = Object.fromEntries(formData)["email"]
+
+    if (!email.includes("@") || email.length < 5 || email.length > 60) {
+        alert("Please enter a valid email address")
+        return;
+    }
+
+    const response = await fetch('http://localhost:5000/api/v3/subscribe?email=' + email);
+    var statusCode = response.status
+
+    if (statusCode == 200 || statusCode == 409) {
+        alert("You are now subscribed to the newsletter")
+    } else {
+        alert("An occurred, please try again")
+    }
 });
