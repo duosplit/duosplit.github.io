@@ -422,17 +422,38 @@ thisForm.addEventListener('submit', async function (e) {
     const formData = new FormData(thisForm).entries()
     var email = Object.fromEntries(formData)["email"]
 
-    if (!email.includes("@") || email.length < 5 || email.length > 60) {
-        alert("Please enter a valid email address")
-        return;
-    }
+    if (thisForm.checkValidity()) {
+        console.log("sdf")
+        // If the form is invalid, submit it. The form won't actually submit;
+        // this will just cause the browser to display the native HTML5 error messages.
+        $("#newsletterForm").find("#submit")[0].click();
+      }
 
-    const response = await fetch(PROD_URL + email);
-    var statusCode = response.status
+    // if (!email.includes("@") || email.length < 5 || email.length > 60) {
+    //     alert("Please enter a valid email address")
+    //     return;
+    // }
 
-    if (statusCode == 200 || statusCode == 409) {
-        alert("You are now subscribed to the newsletter")
-    } else {
-        alert("An occurred, please try again")
-    }
+    // const response = await fetch(DEV_URL + email);
+    // var statusCode = response.status
+
+    // if (statusCode == 200 || statusCode == 409) {
+    //     var submitButton = $("input[type=submit]", thisForm)[0];
+    //     submitButton.value = "✔"
+    //     submitButton.style = "background: #8ac926;"
+    // } else {
+    //     alert("An occurred, please try again")
+    // }
 });
+
+
+
+// keep the scroll position for page refresh
+document.addEventListener("DOMContentLoaded", function(event) { 
+    var scrollpos = localStorage.getItem('scrollpos');
+    if (scrollpos) window.scrollTo(0, scrollpos);
+});
+
+window.onbeforeunload = function(e) {
+    localStorage.setItem('scrollpos', window.scrollY);
+};
