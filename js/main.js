@@ -422,7 +422,7 @@ thisForm.addEventListener('submit', async function (e) {
     const formData = new FormData(thisForm).entries()
     var email = Object.fromEntries(formData)["email"]
 
-    const response = await fetch(DEV_URL + email);
+    const response = await fetch(PROD_URL + email);
     var statusCode = response.status
 
     var lang = window.lang
