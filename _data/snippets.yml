@@ -222,3 +222,15 @@ faq_items:
         Budgets synchronized in Duo Split's cloud are kept indefinitely.
       fr: |
         Les budget synchronisés dans l'infonuagique de Duo Split sont conservés indéfiniment.
+subscribe_to_newsletter_title:
+  en: Subscribe to the newsletter
+  fr: Abonnez-vous au bulletin d'actualité
+subscribe_to_newsletter:
+  en: Stay updated with latest Duo Split news!
+  fr: Restez à jour avec les dernières nouvelles de Duo Split!
+newsletter_email_placeholder:
+  en: Enter your email address
+  fr: Entrez votre adresse courriel
+newsletter_email_action:
+  en: Subscribe
+  fr: S'abonner

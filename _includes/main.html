@@ -112,12 +112,6 @@
 					<div class="download-button d-flex flex-row" style="margin-left: -15px;">
 						<a href="https://play.google.com/store/apps/details?id=com.matprov.duosplit&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank"><img style="height: 84px;" alt="Get it on Google Play" src="https://play.google.com/intl/en/badges/images/generic/en_badge_web_generic.png"></a>
 					</div>
-					<!-- <div>
-						<form id="newsletterForm" action="">
-						  	<input type="email" name="email" placeholder="Subscribe to Duo Split email newsletter" />
-						  	<input type="submit" name="submit" value="Subscribe">
-						</form>
-					</div> -->
 				</div>
 				<div class="banner-img col-lg-6 col-md-6">
 					<img class="img-fluid" style="margin-top: 50px;" src="{{ site.data.snippets.img_path[page.lang] }}{{ '1.0.png' }}" alt="">
@@ -126,6 +120,29 @@
 		</div>
 	</section>
 	<!-- End banner Area -->
+
+	<!-- Start Pricing Area -->
+	<section id="download" class="screenshot-area section-gap-top" style="margin-bottom: 7em;">
+		<div class="container">
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-10">
+					<div class="section-title text-center">
+						<h1>{{ site.data.snippets.subscribe_to_newsletter_title[page.lang] }}</h1>
+						<br>
+						<h3>{{ site.data.snippets.subscribe_to_newsletter[page.lang] }}</h3>
+					</div>
+				</div>
+			</div>
+	
+			<div>
+				<form id="newsletterForm" action="">
+					  <input type="email" name="email" placeholder="{{ site.data.snippets.newsletter_email_placeholder[page.lang] }}" />
+					  <input type="submit" name="submit" value="{{ site.data.snippets.newsletter_email_action[page.lang] }}">
+				</form>
+			</div>
+		</div>
+	</section>
+	<!-- End Pricing Area -->
 
 	<a id="features"></a>
 
