@@ -414,6 +414,8 @@ $(document).ready(function () {
 
 
 // newsletter
+var DEV_URL = "http://localhost:5000/api/v3/subscribe?email="
+var PROD_URL = "http://duosplit.com/api/v3/subscribe?email="
 const thisForm = document.getElementById('newsletterForm');
 thisForm.addEventListener('submit', async function (e) {
     e.preventDefault();
@@ -425,7 +427,7 @@ thisForm.addEventListener('submit', async function (e) {
         return;
     }
 
-    const response = await fetch('http://localhost:5000/api/v3/subscribe?email=' + email);
+    const response = await fetch(TEST_URL + email);
     var statusCode = response.status
 
     if (statusCode == 200 || statusCode == 409) {
