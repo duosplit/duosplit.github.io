@@ -449,11 +449,30 @@ function resetSubscribeButton() {
 
 
 // keep the scroll position for page refresh
-document.addEventListener("DOMContentLoaded", function(event) { 
+document.addEventListener("DOMContentLoaded", function (event) {
     var scrollpos = localStorage.getItem('scrollpos');
     if (scrollpos) window.scrollTo(0, scrollpos);
 });
 
-window.onbeforeunload = function(e) {
+window.onbeforeunload = function (e) {
     localStorage.setItem('scrollpos', window.scrollY);
 };
+
+
+// text over images
+var textOverImages = document.getElementsByClassName("onClickTextOverImage");
+var previousTextOverImage;
+for (var i = 0; i < textOverImages.length; i++) {
+    textOverImages[i].onclick = function () {
+        var classes = this.classList;
+        if (classes.contains("show")) {
+            classes.remove("show");
+        } else {
+            if (previousTextOverImage != null) {
+                previousTextOverImage.classList.remove("show");
+            }
+            previousTextOverImage = this;
+            classes.add("show");
+        }
+    }
+}
