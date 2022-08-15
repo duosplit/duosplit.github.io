@@ -145,7 +145,7 @@ faq_items:
       fr: À qui s'adresse Duo Split?
     a:
       en: |
-        Duo Split is aimed at couples wishing to simplify the management of their expenses. For those who do not have expenses to share, just use the personal budget.
+        Duo Split is aimed at couples wishing to simplify the management of their expenses. For those who do not have expenses to share, simply use the personal budget.
       fr: | 
         Duo Split s'adresse aux couples souhaitant simplifier la gestion de leurs dépenses. Pour ceux et celles qui n'ont pas de dépenses à partager, il suffit d'utiliser uniquement le budget personnel.
   - q:
@@ -235,8 +235,8 @@ subscribe_to_newsletter:
   en: Stay updated with latest Duo Split news!
   fr: Restez à jour avec les dernières nouvelles de Duo Split!
 newsletter_email_placeholder:
-  en: Enter your email address
-  fr: Entrez votre adresse courriel
+  en: Your email address
+  fr: Votre adresse courriel
 newsletter_email_action:
   en: Subscribe
   fr: S'abonner
