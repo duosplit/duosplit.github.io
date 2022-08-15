@@ -247,3 +247,8 @@ form input:not([type=email]):hover {
   box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 16px;
   border-radius: 10px;
 }
+
+
+button:focus {
+  outline: none;
+}
