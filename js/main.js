@@ -451,11 +451,23 @@ function resetSubscribeButton() {
 // keep the scroll position for page refresh
 document.addEventListener("DOMContentLoaded", function (event) {
     var scrollpos = localStorage.getItem('scrollpos');
-    if (scrollpos) window.scrollTo(0, scrollpos);
+    var secondsSinceEpoch = Math.round(Date.now() / 1000);
+    var needToScroll = secondsSinceEpoch - localStorage.getItem('lastUnload') < 3;
+
+    if (scrollpos && needToScroll) {
+        window.scrollTo(0, scrollpos);
+
+        if ($(this).scrollTop() > 50) {
+            $('#header').addClass('header-scrolled');
+        } else {
+            $('#header').removeClass('header-scrolled');
+        }
+    }
 });
 
 window.onbeforeunload = function (e) {
     localStorage.setItem('scrollpos', window.scrollY);
+    localStorage.setItem('lastUnload', Math.round(Date.now() / 1000));
 };
 
 
