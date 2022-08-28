@@ -249,6 +249,15 @@ form input:not([type=email]):hover {
 }
 
 
+// reset social media button focus
 button:focus {
   outline: none;
+}
+
+
+// titlebox margin
+@media (min-width: 992px) {
+  #titlebox {
+    margin-top: -104px;
+  }
 }
