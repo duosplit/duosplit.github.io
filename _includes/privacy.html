@@ -85,7 +85,8 @@
 							<img id="logo" style="float: left;" height="64" width="64" src="{{
 								'/img/logo.svg' | absolute_url }}">
 							<p id="app-title" class="text vertical-center barlow" style="font-size:
-								36px; color: black;">{{ site.data.snippets.app_title[page.lang] | upcase
+								36px; color: black; cursor: pointer;" onclick="location.href='{{ site.data.snippets.base_path[page.lang] }}'">{{
+								site.data.snippets.app_title[page.lang] | upcase
 								}}</p>
 							<p id="app-subtitle" class="text vertical-center barlow" style="color:
 								black;">{{ site.data.snippets.app_subtitle[page.lang] }}</p>
@@ -124,7 +125,8 @@
 						© 2022 Mathieu Provencher <br> This template is made by <a
 							href="https://colorlib.com" target="_blank">Colorlib</a></p>
 					<p class="footer-text m-0 col-lg-6 col-md-12" style="text-align: right;"><a
-							style="color: white;" href="privacy.html">{{
+							style="color: white;" href="{{
+							site.data.snippets.privacy_policy_url[page.lang] }}">{{
 							site.data.snippets.privacy_policy[page.lang] }}</a></p>
 				</div>
 			</div>

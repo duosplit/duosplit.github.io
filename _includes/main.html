@@ -71,7 +71,7 @@
 		<div class="container main-menu">
 			<div class="row align-items-center justify-content-between d-flex">
 				<div>
-					<div style="width: 150%; margin-left: -7px;">
+					<div style="width: 150%; margin-left: -7px; cursor: pointer;" onclick="location.href='{{ site.data.snippets.base_path[page.lang] }}'">
 						<img id="logo" style="float: left;" height="64" width="64" src="{{ '/img/logo.svg' | absolute_url }}">
 						<p id="app-title" class="text vertical-center barlow" style="font-size: 36px; color: black;">{{ site.data.snippets.app_title[page.lang] | upcase }}</p>
 						<p id="app-subtitle" class="text vertical-center barlow" style="color: black;">{{ site.data.snippets.app_subtitle[page.lang] }}</p>
