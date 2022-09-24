@@ -452,7 +452,7 @@ function resetSubscribeButton() {
 document.addEventListener("DOMContentLoaded", function (event) {
     var scrollpos = localStorage.getItem('scrollpos');
     var secondsSinceEpoch = Math.round(Date.now() / 1000);
-    var needToScroll = secondsSinceEpoch - localStorage.getItem('lastUnload') < 0.5;
+    var needToScroll = secondsSinceEpoch - localStorage.getItem('lastUnload') < 0.1;
 
     if (scrollpos && needToScroll) {
         window.scrollTo(0, scrollpos);
