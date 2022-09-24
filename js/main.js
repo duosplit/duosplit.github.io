@@ -452,10 +452,10 @@ function resetSubscribeButton() {
 document.addEventListener("DOMContentLoaded", function (event) {
     var scrollpos = localStorage.getItem('scrollpos');
     var secondsSinceEpoch = Math.round(Date.now() / 1000);
-    var needToScroll = secondsSinceEpoch - localStorage.getItem('lastUnload') < 0.1;
+    var needToScroll = secondsSinceEpoch - localStorage.getItem('lastUnload') < 0.5;
 
     if (scrollpos && needToScroll) {
-        window.scrollTo(0, scrollpos);
+        // window.scrollTo(0, scrollpos);
 
         if ($(this).scrollTop() > 50) {
             $('#header').addClass('header-scrolled');
