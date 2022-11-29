@@ -129,29 +129,6 @@
 	</section>
 	<!-- End banner Area -->
 
-	<!-- Start Pricing Area -->
-	<section id="download" class="screenshot-area section-gap-top" style="margin-bottom: 7em;">
-		<div class="container">
-			<div class="row d-flex justify-content-center">
-				<div class="col-lg-10">
-					<div class="section-title text-center">
-						<h1>{{ site.data.snippets.subscribe_to_newsletter_title[page.lang] }}</h1>
-						<br>
-						<h3>{{ site.data.snippets.subscribe_to_newsletter[page.lang] }}</h3>
-					</div>
-				</div>
-			</div>
-	
-			<div>
-				<form id="newsletterForm" action="">
-					<input id="emailField" type="email" name="email" minlength="5" maxlength="60" required placeholder="{{ site.data.snippets.newsletter_email_placeholder[page.lang] }}" />
-					<input id="submit" type="submit" name="submit" value="{{ site.data.snippets.newsletter_email_action[page.lang] }}">
-				</form>
-			</div>
-		</div>
-	</section>
-	<!-- End Pricing Area -->
-
 	<a id="features"></a>
 
 	<!-- Start about Area -->
@@ -264,7 +241,7 @@
 
 
 	<!-- Start Pricing Area -->
-	<section id="download" class="screenshot-area section-gap-top">
+	<section id="download" class="section-gap-top">
 		<div class="container">
 			<div class="row d-flex justify-content-center">
 				<div class="col-lg-8">
@@ -289,9 +266,6 @@
 		</div>
 	</section>
 	<!-- End Pricing Area -->
-
-
-
 
 
 	<section id="faq" class="screenshot-area section-gap-top">
@@ -322,6 +296,28 @@
 	</section>
 
 
+	<!-- Start Subscribe Area -->
+	<section id="subscribe" class="section-gap-top" style="margin-bottom: 7em;">
+		<div class="container">
+			<div class="row d-flex justify-content-center">
+				<div class="col-lg-10">
+					<div class="section-title text-center">
+						<h1>{{ site.data.snippets.subscribe_to_newsletter_title[page.lang] }}</h1>
+						<br>
+						<h3>{{ site.data.snippets.subscribe_to_newsletter[page.lang] }}</h3>
+					</div>
+				</div>
+			</div>
+	
+			<div>
+				<form id="newsletterForm" action="">
+					<input id="emailField" type="email" name="email" minlength="5" maxlength="60" required placeholder="{{ site.data.snippets.newsletter_email_placeholder[page.lang] }}" />
+					<input id="submit" type="submit" name="submit" value="{{ site.data.snippets.newsletter_email_action[page.lang] }}">
+				</form>
+			</div>
+		</div>
+	</section>
+	<!-- End Subscribe Area -->
 
 
 
