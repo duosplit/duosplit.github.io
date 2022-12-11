@@ -169,7 +169,7 @@ $(document).ready(function () {
 
     // Header scroll class
     $(window).scroll(function () {
-        if ($(this).scrollTop() > 50) {
+        if ($(this).scrollTop() > 10) {
             $('#header').addClass('header-scrolled');
         } else {
             $('#header').removeClass('header-scrolled');
@@ -455,15 +455,19 @@ document.addEventListener("DOMContentLoaded", function (event) {
     var needToScroll = secondsSinceEpoch - localStorage.getItem('lastUnload') < 0.5;
 
     if (scrollpos && needToScroll) {
-        // window.scrollTo(0, scrollpos);
-
-        if ($(this).scrollTop() > 50) {
+        if ($(this).scrollTop() > 10) {
             $('#header').addClass('header-scrolled');
         } else {
             $('#header').removeClass('header-scrolled');
         }
     }
 });
+
+if (window.scrollY > (10)) {
+    $('#header').addClass('header-scrolled');
+} else {
+    $('#header').removeClass('header-scrolled');
+}
 
 window.onbeforeunload = function (e) {
     localStorage.setItem('scrollpos', window.scrollY);
