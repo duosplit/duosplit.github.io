@@ -19,6 +19,12 @@ title_simplicity:
 base_path:
   en: /
   fr: /fr
+switch_lang:
+  en: FR
+  fr: EN
+switch_lang_href:
+  en: /fr
+  fr: /en
 og_title:
   en: Duo Split - Budget. Couple. Simplicity.
   fr: Duo Split - Budget. Couple. Simplicité.
