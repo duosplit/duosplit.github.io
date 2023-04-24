@@ -106,6 +106,9 @@ contact:
 features:
   en: Features
   fr: Fonctionnalités
+origin:
+  en: Origin
+  fr: Origine
 overview_panel_info:
   en: All the benefits of a joint account without their drawbacks. Say hello to Duo Split and easily manage your joint expenses. Either keep an expense in your personal budget or put it in the couple budget by specifying who paid which share. Also, only you can see your personal budget. In-app reimbursements and auto-accounting is what will make you fall in love with Duo Split.
   fr: Tous les avantages d'un compte conjoint sans leurs désavantages. Saluez Duo Split et gérez facilement vos dépenses communes. Gardez une dépense soit dans votre budget personnel ou votre budget de couple en précisant qui a payé quelle part. De plus, vous seul pouvez consulter votre budget personnel. Les remboursements intégrés à même l'application et la comptabilité automatique sont les atouts qui vous feront tomber en amour avec Duo Split. 
@@ -133,12 +136,12 @@ let_others_know:
 medias:
   en: Medias
   fr: Médias
-story_title:
+origin_title:
   en: Origin
   fr: Origine
 download_the_app:
-  en: Download the app right now to get started!
-  fr: Téléchargez l'application dès maintenant pour commencer!
+  en: Now it's up to you to use the easiest way to budget as a couple!
+  fr: C’est maintenant à vous d'utiliser la façon la plus simple de budgéter en couple!
 faq_title:
   en: FAQ
   fr: FAQ
@@ -249,7 +252,7 @@ newsletter_email_action:
 coming_soon:
   en: Coming soon!
   fr: Bientôt disponible!
-story:
+origin_text:
   en:
   fr: |
     La séparation des dépenses de façon équitable est primordiale dans un couple. Juste à penser au nombre de dépenses au quotidien, il est normal que l’argent soit l'une des causes principales de malentendus dans les couples. Il est donc important d’élaborer un budget réaliste. Faire un budget est une chose, le respecter en est une autre. Des comptes conjoints mal gérés, des dépenses cachées entre conjoints ou bien même des sommes d'argent qui disparaissent de façon inexplicable sont tous de tristes scénarios qui arrivent malheureusement trop souvent. La cause est souvent un manque d'éducation financière, une confiance aveugle ou un mauvais suivi budgétaire. Il faut se munir de bons outils pour respecter son budget. 
@@ -265,8 +268,3 @@ story:
     <br><br>
     
     La possibilité d’avoir un budget différent chaque année vous permet d’ajuster les catégories de dépenses d’une année à l’autre pour s’adapter à l’évolution de votre budget. Que la séparation d’une dépense soit faite selon un proportion ou un montant précis, selon les revenus des conjoints ou selon la dépense, la stratégie à utiliser vous appartient. Duo Split est là pour vous aider à comptabiliser vos dépenses selon la méthode qui vous convient. 
-    
-    <br><br>
-    
-    C’est maintenant à vous d’essayer la façon la plus simple de budgéter en couple.
-
