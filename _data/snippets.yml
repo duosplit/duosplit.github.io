@@ -133,9 +133,9 @@ let_others_know:
 medias:
   en: Medias
   fr: Médias
-call_to_action:
-  en: Do you really need a joint account?
-  fr: Avez-vous vraiment besoin d'un compte conjoint?
+story_title:
+  en: Origin
+  fr: Origine
 download_the_app:
   en: Download the app right now to get started!
   fr: Téléchargez l'application dès maintenant pour commencer!
@@ -251,4 +251,22 @@ coming_soon:
   fr: Bientôt disponible!
 story:
   en:
-  fr:
+  fr: |
+    La séparation des dépenses de façon équitable est primordiale dans un couple. Juste à penser au nombre de dépenses au quotidien, il est normal que l’argent soit l'une des causes principales de malentendus dans les couples. Il est donc important d’élaborer un budget réaliste. Faire un budget est une chose, le respecter en est une autre. Des comptes conjoints mal gérés, des dépenses cachées entre conjoints ou bien même des sommes d'argent qui disparaissent de façon inexplicable sont tous de tristes scénarios qui arrivent malheureusement trop souvent. La cause est souvent un manque d'éducation financière, une confiance aveugle ou un mauvais suivi budgétaire. Il faut se munir de bons outils pour respecter son budget. 
+    
+    <br><br>
+    
+    Il existe une panoplie d’applications mobiles permettant de suivre un budget, une large variété pour séparer des dépenses, mais très peu combinant ces deux aspects à la fois, tout en adressant les défis spécifiques aux couples. Gérer les dépenses reste un enjeu au sein des couples. Une séparation claire entre les budgets personnels et celui de couple doit être définie.
+    
+    <br><br>
+    
+    C’est en 2018 que l’application mobile Duo Split voit le jour. Spécifiquement conçue pour les couples, elle permet de maintenir à la fois les budgets personnels et celui de couple. Utilisée de façon quotidienne par son créateur depuis le début, elle ne cesse de se raffiner. Connaître en un clin d'œil la somme que vous devez à votre partenaire et savoir instantanément si vous respectez vos budgets n'a jamais été aussi simple.
+    
+    <br><br>
+    
+    La possibilité d’avoir un budget différent chaque année vous permet d’ajuster les catégories de dépenses d’une année à l’autre pour s’adapter à l’évolution de votre budget. Que la séparation d’une dépense soit faite selon un proportion ou un montant précis, selon les revenus des conjoints ou selon la dépense, la stratégie à utiliser vous appartient. Duo Split est là pour vous aider à comptabiliser vos dépenses selon la méthode qui vous convient. 
+    
+    <br><br>
+    
+    C’est maintenant à vous d’essayer la façon la plus simple de budgéter en couple.
+
