@@ -147,7 +147,7 @@ origin_title:
   fr: Origine
 download_the_app:
   en: Now it's up to you to choose the best tool for budgeting as a couple!
-  fr: C’est maintenant à vous de choisir le meilleur outil pour budgéter en couple!
+  fr: C’est maintenant à vous de prendre le contrôle de vos dépenses de couple grâce à Duo Split! 
 faq_title:
   en: FAQ
   fr: FAQ
@@ -212,7 +212,7 @@ faq_items:
       fr: |
         Non. Aucune information personnelle ou bancaire n'est inscrite dans Duo Split. Il n'y a donc aucun risque d’usurpation d’identité.
   - q:
-      en: How the security of my data is ensured?
+      en: How the security of my personal data is ensured?
       fr: Comment la sécurité de mes informations personnelles est assurée?
     a:
       en: |
@@ -224,9 +224,9 @@ faq_items:
       fr: Puis-je sauvegarder mes données vers un classeur?
     a:
       en: |
-        Yes. It is possible to export Duo Split data to a spreadsheet. It's even a good idea for doing advanced calculations, visualizations or archiving your data.
+        Yes. It is possible to export Duo Split data to a spreadsheet in order to do advanced calculations, visualizations or simply archive your data.
       fr: |
-        Oui. Il est possible d’exporter les données de Duo Split vers un classeur. C'est même une bonne idée pour faire des calculs avancés, des visualisations ou archiver vos données.
+        Oui. Il est possible d’exporter les données de Duo Split vers un classeur, afin des faire des calculs avancés, des visualisations ou simplement archiver vos données.
   - q:
       en: Is this solution approved by a financial authority?
       fr: Est-ce que cette solution est homologuée par une autorité financière?
@@ -240,9 +240,9 @@ faq_items:
       fr: Pour combien de temps mes budgets sont-ils enregistrés?
     a:
       en: |
-        Budgets synchronized in Duo Split's cloud are kept indefinitely.
+        Budgets synchronized in Duo Split's cloud are kept indefinitely until you ask to delete your data.
       fr: |
-        Les budget synchronisés dans l'infonuagique de Duo Split sont conservés indéfiniment.
+        Les budget synchronisés dans l'infonuagique de Duo Split sont conservés indéfiniment jusqu'à ce que vous demandiez à effacer vos données.
 subscribe_to_newsletter_title:
   en: Subscribe to newsletter
   fr: Abonnez-vous au bulletin d'actualité
@@ -269,4 +269,4 @@ origin_text:
     
     <br><br>
     
-    C’est en 2018 que l’application mobile Duo Split voit le jour. Spécifiquement conçue pour les couples, elle permet de maintenir à la fois les budgets personnels et celui de couple. Que la séparation d’une dépense soit faite selon une proportion ou un montant précis, selon les revenus des conjoints ou selon la dépense, Duo Split est là pour vous aider à comptabiliser vos dépenses selon la méthode qui vous convient. Il n'a jamais été aussi simple de connaître en un clin d'œil la somme que vous devez à votre partenaire et savoir instantanément si vous respectez vos budgets. Utilisé par son créateur depuis le tout début, Duo Split ne cesse de se raffiner.
+    C’est en 2018 que l’application mobile Duo Split voit le jour. Spécifiquement conçue pour les couples, elle encourage une séparation systématique des dépenses de couple et personnelles en deux budgets distincts pour éviter les malentendus. Il n'a jamais été aussi simple de connaître en un clin d'œil la somme que vous devez à votre partenaire et savoir instantanément si vous respectez vos budgets. Que la séparation d’une dépense soit faite selon une proportion, un montant précis ou les revenus des conjoints, Duo Split est là pour vous aider à comptabiliser vos dépenses avec la méthode qui vous convient. Utilisé par son créateur depuis sa création, Duo Split ne cesse de se raffiner.
