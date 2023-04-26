@@ -160,17 +160,17 @@ faq_items:
       fr: À qui s'adresse Duo Split?
     a:
       en: |
-        Duo Split is aimed at couples wishing to simplify the management of their expenses. For those who do not have expenses to share, simply use the personal budget.
+        Duo Split is aimed at couples wishing to simplify the management of their expenses.
       fr: | 
-        Duo Split s'adresse aux couples souhaitant simplifier la gestion de leurs dépenses. Pour ceux et celles qui n'ont pas de dépenses à partager, il suffit d'utiliser uniquement le budget personnel.
+        Duo Split s'adresse aux couples souhaitant simplifier la gestion de leurs dépenses.
   - q:
       en: What are the advantages of Duo Split over a joint account?
       fr: Quelles sont les avantages de Duo Split par rapport à un compte conjoint?
     a:
       en: |
-        The joint account is the intuitive solution for couples having no alternative to maintain a fair and equitable budget. However, a breach of trust or separation threatens access to a joint account at any time. Using Duo Split allows you to have the simplicity of a joint account without the hassle. Duo Split even supports payment via a joint account, designed for couples using a joint account.
+        The joint account is the intuitive solution for couples having no alternative to maintain a fair and equitable budget. However, a breach of trust or separation threatens access to a joint account at any time. Using Duo Split allows you to have the simplicity of a joint account without the hassle. Duo Split also supports joint accounts, for couples using a joint account.
       fr: |
-        Le compte conjoint est la solution intuitive pour les couples n'ayant pas d'alternative pour maintenir un budget juste et équitable. Cependant, un bris de confiance ou une séparation menace à tout moment l'accès à un compte conjoint. Utiliser Duo Split permet d'avoir la simplicité d'un compte conjoint sans ses tracas. Duo Split supporte même le paiement via un compte conjoint, conçue pour les couples utilisant un compte conjoint.
+        Le compte conjoint est la solution intuitive pour les couples n'ayant pas d'alternative pour maintenir un budget juste et équitable. Cependant, un bris de confiance ou une séparation menace à tout moment l'accès à un compte conjoint. Utiliser Duo Split permet d'avoir la simplicité d'un compte conjoint sans ses tracas. Duo Split supporte aussi les comptes conjoints, conçue pour les couples utilisant un compte conjoint.
   - q: 
       en: What are the differences between Duo Split and other personal finance apps?
       fr: Quelles sont les différences entre Duo Split et les autres applications de finances personnelles?
@@ -188,8 +188,8 @@ faq_items:
       fr: |
         Oui. Il suffit d'ajouter les dépenses de couple via votre compte Duo Split. Si la dépense a été faite par votre partenaire, spécifiez cette information au moment d'ajouter la dépense.
   - q:
-      en: Is it possible to register incomes in Duo Split?
-      fr: Est-ce possible d'inscrire les entrées d'argent dans Duo Split?
+      en: Is it possible to register my incomes in Duo Split?
+      fr: Est-ce possible d'inscrire mes entrées d'argent dans Duo Split?
     a:
       en: |
         No. In general, cash inflows are more constant than cash outflows. Bi-annually reassessing your cash inflows is enough, while expenses vary constantly.
@@ -216,9 +216,9 @@ faq_items:
       fr: Comment la sécurité de mes informations personnelles est assurée?
     a:
       en: |
-        Duo Split is not associated with any financial institution or third party. No personally identifiable information is taken from your bank accounts. Data transmission with Duo Split's Cloud is done via a secure connection. Rest assured that expenses in your personal budget are only visible to you.
+        Duo Split is not associated with any financial institution or third party. No personally identifiable information is taken from your bank accounts. No data is sold to a third party. Data transmission with Duo Split's Cloud is done via a secure connection. Rest assured that expenses in your personal budget are only visible to you.
       fr: |
-        Duo Split n’est associé à aucune institution financière ni tierce partie. Il n’y a aucune information personnelle nominative qui est extirpée de vos comptes bancaires. La transmission des données avec l'infonuagique de Duo Split est faite via une connexion sécurisée. Restez assuré que les dépenses figurant dans votre budget personnel ne sont visibles que par vous.
+        Duo Split n’est associé à aucune institution financière ni tierce partie. Il n’y a aucune information personnelle nominative qui est extirpée de vos comptes bancaires. Aucune information n'est vendue à une tierce partie. La transmission des données avec l'infonuagique de Duo Split est faite via une connexion sécurisée. Restez assuré que les dépenses figurant dans votre budget personnel ne sont visibles que par vous.
   - q:
       en: Can I back up my data to a spreadsheet?
       fr: Puis-je sauvegarder mes données vers un classeur?
