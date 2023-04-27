@@ -134,7 +134,7 @@ featured_screens_info:
   en: Here is what Duo Split looks like in action.
   fr: Voici à quoi ressemble Duo Split en action.
 social_media_info:
-  en: Like Duo Split?
+  en: Love Duo Split?
   fr: Vous aimez Duo Split?
 let_others_know:
   en: Let others know!
@@ -176,25 +176,25 @@ faq_items:
       fr: Quelles sont les différences entre Duo Split et les autres applications de finances personnelles?
     a: 
       en: |
-        Maintaining a couple budget brings concerns and it is in this area that Duo Split stands out. The separation of the couple's expenses and the accounting of the sums due between partners in real time are the elements characterizing Duo Split. Each application meets some needs, but whether it meets yours remains to be seen.
+        Maintaining a couple budget brings concerns and it is in this area that Duo Split stands out. The separation of the couple's expenses and the accounting of the sums due between partners in real time are the elements characterizing Duo Split.
       fr: |
-        Maintenir un budget de couple amène des préoccupations et c’est dans ce domaine que Duo Split se démarque. La séparation des dépenses de couple et la comptabilisation des sommes dues entre partenaires en temps réel sont les éléments caractérisant Duo Split. Chaque application répond à certains besoins, mais reste à savoir si elle répond aux vôtres.
+        Maintenir un budget de couple amène des préoccupations et c’est dans ce domaine que Duo Split se démarque. La séparation des dépenses de couple et la comptabilisation des sommes dues entre partenaires en temps réel sont les éléments caractérisant Duo Split.
   - q:
-      en: Can I use Duo Split even if my partner doesn't have it?
-      fr: Puis-je utiliser Duo Split même si mon partenaire ne l'a pas?
+      en: Can I use Duo Split even if my partner doesn't use it?
+      fr: Puis-je utiliser Duo Split même si mon partenaire ne l'utilise pas?
     a:
       en: |
-        Yes. Just add couple expenses through your Duo Split account. If the expense was made by your partner, specify this information when adding the expense.
+        Yes. Simply add couple expenses through your Duo Split account by specifying who paid.
       fr: |
-        Oui. Il suffit d'ajouter les dépenses de couple via votre compte Duo Split. Si la dépense a été faite par votre partenaire, spécifiez cette information au moment d'ajouter la dépense.
+        Oui. Il suffit d'ajouter les dépenses de couple via votre compte Duo Split en spécifiant qui a payé.
   - q:
       en: Is it possible to register my incomes in Duo Split?
       fr: Est-ce possible d'inscrire mes entrées d'argent dans Duo Split?
     a:
       en: |
-        No. In general, cash inflows are more constant than cash outflows. Bi-annually reassessing your cash inflows is enough, while expenses vary constantly.
+        No. In general, cash inflows are more constant than cash outflows. Bi-annually reassessing cash inflows is enough, while expenses vary constantly.
       fr: |
-        Non. De façon générale, les entrées d'argent sont plus constantes que les sorties d’argent. Réévaluer bi-annuellement vos entrées d’argent suffit, alors que les dépenses varient constamment.
+        Non. De façon générale, les entrées d'argent sont plus constantes que les sorties d’argent. Réévaluer bi-annuellement les entrées d’argent suffit, alors que les dépenses varient constamment.
   - q:
       en: How much does Duo Split cost?
       fr: Combien coûte Duo Split?
@@ -208,17 +208,17 @@ faq_items:
       fr: Est-ce qu'une dépense faite par carte de paiement se retrouve dans Duo Split?
     a:
       en: |
-        No. There is no personal or banking information saved in Duo Split. There is therefore no risk of identity theft.
+        No. There are no personal or banking information saved in Duo Split. There is therefore no risk of identity theft.
       fr: |
         Non. Aucune information personnelle ou bancaire n'est inscrite dans Duo Split. Il n'y a donc aucun risque d’usurpation d’identité.
   - q:
-      en: How the security of my personal data is ensured?
-      fr: Comment la sécurité de mes informations personnelles est assurée?
+      en: How is the security of my personal data ensured?
+      fr: Comment la sécurité de mes informations personnelles est-elle assurée?
     a:
       en: |
-        Duo Split is not associated with any financial institution or third party. No personally identifiable information is taken from your bank accounts. No data is sold to a third party. Data transmission with Duo Split's Cloud is done via a secure connection. Rest assured that expenses in your personal budget are only visible to you.
+        Duo Split is not associated with any financial institution or third party. No data is taken from your bank accounts. No data is sold to a third party. Data transmission with Duo Split's Cloud is done via a secure connection. Rest assured that expenses in your personal budget are only visible to you.
       fr: |
-        Duo Split n’est associé à aucune institution financière ni tierce partie. Il n’y a aucune information personnelle nominative qui est extirpée de vos comptes bancaires. Aucune information n'est vendue à une tierce partie. La transmission des données avec l'infonuagique de Duo Split est faite via une connexion sécurisée. Restez assuré que les dépenses figurant dans votre budget personnel ne sont visibles que par vous.
+        Duo Split n’est associé à aucune institution financière ni tierce partie. Aucune donnée ne provient de vos comptes bancaires. Aucune donnée n'est vendue à une tierce partie. La transmission des données avec l'infonuagique de Duo Split se fait via une connexion sécurisée. Restez assuré que les dépenses figurant dans votre budget personnel ne sont visibles que par vous.
   - q:
       en: Can I back up my data to a spreadsheet?
       fr: Puis-je sauvegarder mes données vers un classeur?
@@ -232,17 +232,17 @@ faq_items:
       fr: Est-ce que cette solution est homologuée par une autorité financière?
     a:
       en: |
-        No. Duo Split is an expense and budget tracking app. However, if you feel the need, you can call on an accredited financial adviser who can help you set up a budget.
+        No. Duo Split is an expense and budget tracking app.
       fr: |
-        Non. Duo Split est une application de comptabilisation des dépenses et de suivi de budget. Toutefois, si vous en sentez le besoin, vous pouvez faire appel à un conseiller financier accrédité qui pourra vous aider à monter un budget. 
+        Non. Duo Split est une application de comptabilisation des dépenses et de suivi de budget.
   - q:
-      en: For how long are my budgets saved?
-      fr: Pour combien de temps mes budgets sont-ils enregistrés?
+      en: For how long are my budgets kept?
+      fr: Pour combien de temps mes budgets sont-ils conservés?
     a:
       en: |
-        Budgets synchronized in Duo Split's cloud are kept indefinitely until you ask to delete your data.
+        Budgets synchronized in Duo Split's cloud are kept indefinitely. At any moment you can ask to delete your data.
       fr: |
-        Les budget synchronisés dans l'infonuagique de Duo Split sont conservés indéfiniment jusqu'à ce que vous demandiez à effacer vos données.
+        Les budget synchronisés dans l'infonuagique de Duo Split sont conservés indéfiniment. Vous pouvez demander en tout temps à ce que vos données soient effacées.
 subscribe_to_newsletter_title:
   en: Subscribe to newsletter
   fr: Abonnez-vous au bulletin d'actualité
@@ -264,7 +264,7 @@ origin_text:
     
     <br><br>
     
-    There are a variety of mobile applications for tracking a budget, a wide variety for separating expenses, but very few combining these two aspects at the same time, while addressing the specific challenges of couples. Managing expenses remains an issue within couples. A clear separation between personal and couple budgets must be defined.
+    There are a variety of mobile applications for tracking a budget, a wide variety for separating expenses, but very few that combines these two aspects at the same time, while addressing the specific challenges of couples. Managing expenses remains an issue within couples. A clear separation between personal and couple budgets must be defined.
     
     <br><br>
     
