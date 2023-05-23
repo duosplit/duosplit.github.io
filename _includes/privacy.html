@@ -92,6 +92,23 @@
 								black;">{{ site.data.snippets.app_subtitle[page.lang] }}</p>
 						</div>
 					</div>
+					<nav id="nav-menu-container">
+						<ul class="nav-menu">
+							<li><a href="#features">{{ site.data.snippets.features[page.lang] }}</a></li>
+							<li><a href="#origin">{{ site.data.snippets.origin[page.lang] }}</a></li>
+							<li><a href="#faq">{{ site.data.snippets.faq_title[page.lang] }}</a></li>
+							<!-- <li><a href="#share">{{ site.data.snippets.share[page.lang] }}</a></li> -->
+							<!-- <li><a href="pricing.html">Pricing</a></li>
+							<li class="menu-has-children"><a href="">Blog</a>
+								<ul>
+									<li><a href="blog-home.html">Blog Home</a></li>
+									<li><a href="blog-single.html">Blog Single</a></li>
+								</ul>
+							</li> -->
+							<li><a href="mailto:support@duosplit.com">{{ site.data.snippets.contact[page.lang] }}</a></li>
+							<li class="nav-item"><a href="{{ site.data.snippets.switch_lang_href[page.lang] }}" class="nav-link"><span>{{ site.data.snippets.switch_lang[page.lang] }}</span></a></li>
+						</ul>
+					</nav>
 				</div>
 			</div>
 		</header>
@@ -121,13 +138,13 @@
 		<footer class="footer-area section-gap">
 			<div class="container">
 				<div class="footer-bottom row align-items-center">
-					<p class="footer-text m-0 col-lg-6 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-						© 2023 Mathieu Provencher <br> This template is made by <a
-							href="https://colorlib.com" target="_blank">Colorlib</a></p>
-					<p class="footer-text m-0 col-lg-6 col-md-12" style="text-align: right;"><a
-							style="color: white;" href="{{
-							site.data.snippets.privacy_policy_url[page.lang] }}">{{
-							site.data.snippets.privacy_policy[page.lang] }}</a></p>
+					<p class="footer-text m-0 col-lg-6 col-md-6 col-sm-6 col-6"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+						© 2023 Mathieu Provencher <br> This template is made by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
+	<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+					<p class="footer-text m-0 col-lg-6 col-md-6 col-sm-6 col-6" style="text-align: right;">
+						<a style="color: white;" href="{{ site.data.snippets.privacy_policy_url[page.lang] }}">{{ site.data.snippets.privacy_policy[page.lang] }}</a>
+						<a style="color: white;" href="{{ site.data.snippets.switch_lang_href[page.lang] }}" class="nav-link">{{ site.data.snippets.switch_lang[page.lang] }}</a>
+					</p>
 				</div>
 			</div>
 		</footer>
