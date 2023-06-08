@@ -503,7 +503,7 @@ $(function () {
             var distance = top - $(this).offset().top;
             var hash = $(this).attr('href');
             
-            if (distance < 30 && distance > -30 && currentHash != hash) {
+            if (distance < 100 && distance > -100 && currentHash != hash) {
                 currentHash = hash;
                 history.replaceState(null, null, hash);
             }
