@@ -30,15 +30,21 @@
     function eraseCookie(name) {
         createCookie(name,"",-1);
     }
+    function loadIncludes() {
+        {% include ga_load.js %}
+    }
 
     if(readCookie('cookie-notice-dismissed')=='true') {
-        // TODO : insert scripts to load like here https://jekyllcodex.org/without-plugin/cookie-consent/ 
+        // TODO : insert scripts to load like here https://jekyllcodex.org/without-plugin/cookie-consent/
+        
+        loadIncludes();
     } else {
         document.getElementById('cookie-notice').style.display = 'block';
     }
     document.getElementById('cookie-notice-accept').addEventListener("click",function() {
         createCookie('cookie-notice-dismissed','true',31);
         document.getElementById('cookie-notice').style.display = 'none';
+        loadIncludes();
         // window.location.href = window.location.origin;
     });
 
