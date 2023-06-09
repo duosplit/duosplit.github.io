@@ -417,33 +417,37 @@ $(document).ready(function () {
 var DEV_URL = "http://localhost:5000/api/v3/subscribe?email="
 var PROD_URL = "https://app.duosplit.com/api/v3/subscribe?email="
 const thisForm = document.getElementById('newsletterForm');
-thisForm.addEventListener('submit', async function (e) {
-    e.preventDefault();
-    const formData = new FormData(thisForm).entries()
-    var email = Object.fromEntries(formData)["email"]
 
-    const response = await fetch(PROD_URL + email);
-    var statusCode = response.status
+if (thisForm) {
+    thisForm.addEventListener('submit', async function (e) {
+        e.preventDefault();
+        const formData = new FormData(thisForm).entries()
+        var email = Object.fromEntries(formData)["email"]
 
-    var lang = window.lang
-    var subscribeSuccess = lang == "en" ? "Subscribed!" : "Abonné!"
+        const response = await fetch(PROD_URL + email);
+        var statusCode = response.status
 
-    if (statusCode == 200 || statusCode == 409) {
+        var lang = window.lang
+        var subscribeSuccess = lang == "en" ? "Subscribed!" : "Abonné!"
+
+        if (statusCode == 200 || statusCode == 409) {
+            var submitButton = $("input[type=submit]", thisForm)[0];
+            submitButton.value = subscribeSuccess
+            submitButton.style = "background: #8ac926;"
+        } else {
+            console.log("An occurred while subscribing to newsletter, please try again")
+        }
+    });
+
+    var emailField = document.getElementById('emailField')
+    emailField.addEventListener('keydown', resetSubscribeButton);
+    function resetSubscribeButton() {
+        var lang = window.lang
+        var subscribeText = lang == "en" ? "Subscribe" : "S'abonner"
         var submitButton = $("input[type=submit]", thisForm)[0];
-        submitButton.value = subscribeSuccess
-        submitButton.style = "background: #8ac926;"
-    } else {
-        console.log("An occurred while subscribing to newsletter, please try again")
+        submitButton.value = subscribeText
+        submitButton.style = "background: #1a82c4;"
     }
-});
-var emailField = document.getElementById('emailField')
-emailField.addEventListener('keydown', resetSubscribeButton);
-function resetSubscribeButton() {
-    var lang = window.lang
-    var subscribeText = lang == "en" ? "Subscribe" : "S'abonner"
-    var submitButton = $("input[type=submit]", thisForm)[0];
-    submitButton.value = subscribeText
-    submitButton.style = "background: #1a82c4;"
 }
 
 

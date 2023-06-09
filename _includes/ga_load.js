@@ -9,11 +9,11 @@ function loadJS(FILE_URL, async = true) {
 
   // success event 
   scriptEle.addEventListener("load", () => {
-    console.log("File loaded")
+
   });
    // error event
   scriptEle.addEventListener("error", (ev) => {
-    console.log("Error on loading file", ev);
+
   });
 }
 
