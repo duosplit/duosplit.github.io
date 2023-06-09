@@ -37,6 +37,15 @@ og_url:
 og_image_url:
   en: https://duosplit.com/banner_en_1.91-1.png
   fr: https://duosplit.com/banner_fr_1.91-1.png
+cookie_consent:
+  en: We would like to use third party cookies and scripts to improve the functionality of this website.
+  fr: Nous aimerions utiliser des cookies et des scripts tiers pour améliorer la fonctionnalité de ce site Web.
+accept:
+  en: Accept
+  fr: Accepter
+more_info:
+  en: More info
+  fr: Plus d'information
 privacy_policy:
   en: Privacy policy
   fr: Politique de vie privée
