@@ -516,3 +516,18 @@ $(function () {
 });
 
 
+
+
+// Tippy tooltips
+const kickstarterTemplate = document.getElementById('kickstarterTemplate');
+
+tippy('#downloadAppStore', {
+    content: kickstarterTemplate.innerHTML,
+    allowHTML: true,
+    showOnCreate: true,
+    delay: 0,
+    hideOnClick: false,
+    trigger: 'manual',
+    placement: 'bottom',
+    interactive: true
+}).show();
