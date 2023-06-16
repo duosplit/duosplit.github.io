@@ -529,5 +529,6 @@ tippy('#downloadAppStore', {
     hideOnClick: false,
     trigger: 'manual',
     placement: 'bottom',
-    interactive: true
+    interactive: true,
+    zIndex: 1,
 }).show();
