@@ -525,12 +525,12 @@ $(document).ready(function () {
     tippy('#downloadAppStore', {
         content: kickstarterTemplate.innerHTML,
         allowHTML: true,
-        showOnCreate: true,
+        showOnCreate: false,
         delay: 0,
-        hideOnClick: false,
-        trigger: 'manual',
+        hideOnClick: true,
+        trigger: 'mouseenter click',
         placement: 'bottom',
         interactive: true,
-        zIndex: 1,
+        zIndex: 1
     })
 });
