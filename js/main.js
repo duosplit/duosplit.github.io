@@ -522,15 +522,17 @@ $(function () {
 const kickstarterTemplate = document.getElementById('kickstarterTemplate');
 
 $(document).ready(function () {
-    tippy('#downloadAppStore', {
-        content: kickstarterTemplate.innerHTML,
-        allowHTML: true,
-        showOnCreate: false,
-        delay: 0,
-        hideOnClick: true,
-        trigger: 'mouseenter click',
-        placement: 'bottom',
-        interactive: true,
-        zIndex: 1
-    })
+    if (kickstarterTemplate !== null) {
+        tippy('#downloadAppStore', {
+            content: kickstarterTemplate.innerHTML,
+            allowHTML: true,
+            showOnCreate: false,
+            delay: 0,
+            hideOnClick: true,
+            trigger: 'mouseenter click',
+            placement: 'bottom',
+            interactive: true,
+            zIndex: 1
+        })
+    }
 });
