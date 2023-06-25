@@ -497,25 +497,27 @@ for (var i = 0; i < textOverImages.length; i++) {
     }
 }
 
-// console.log(new URL(window.location.href).hash);
+console.log(new URL(window.location.href).hash);
 
-// // scroll URL hashtags update
-// $(function () {
-//     var currentHash = "#one"
+// scroll URL hashtags update
+function hashtagScroll() {
+    var currentHash = new URL(window.location.href).hash
 
-//     $(document).scroll(function () {
-//         $('.hash').each(function () {
-//             var top = window.pageYOffset;
-//             var distance = top - $(this).offset().top;
-//             var hash = $(this).attr('href');
+    $(document).scroll(function () {
+        $('.hash').each(function () {
+            var top = window.pageYOffset;
+            var distance = top - $(this).offset().top;
+            var hash = $(this).attr('href');
             
-//             if (distance < 100 && distance > -100 && currentHash != hash) {
-//                 currentHash = hash;
-//                 history.replaceState(null, null, hash);
-//             }
-//         });
-//     });
-// });
+            if (distance < 100 && distance > -100 && currentHash != hash) {
+                currentHash = hash;
+                history.replaceState(null, null, hash);
+            }
+        });
+    });
+}
+
+setTimeout(hashtagScroll, 1500);
 
 
 
