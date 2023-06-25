@@ -163,6 +163,62 @@ origin_title:
 download_the_app:
   en: It's now up to you to take control of your couple spendings with Duo Split!
   fr: C’est maintenant à vous de prendre contrôle de vos dépenses de couple avec Duo Split! 
+
+feature_realtime_accounting:
+  en: Realtime Accounting
+  fr:
+feature_realtime_accounting_description:
+  en: Always know how much you owe to your partner.
+  fr:
+feature_separated_budgets:
+  en: Separated Budgets
+  fr: 
+feature_separated_budgets_description:
+  en: Distinguish couple budget from personal ones.
+  fr:
+feature_evolutive_budgets:
+  en: Evolutive Budgets
+  fr:
+feature_evolutive_budgets_description:
+  en: Keep track of budgets that evolve over the years.
+  fr:
+feature_activity_log:
+  en: Activity Log
+  fr:
+feature_activity_log_description:
+  en: Ensure transparency with indelible activity log.
+  fr:
+feature_inapp_reimbursement:
+  en: In-App Reimbursements
+  fr: 
+feature_inapp_reimbursement_description:
+  en: Settle up with your partner.
+  fr:
+feature_private_budget:
+  en: Private Budget
+  fr:
+feature_private_budget_description:
+  en: Keep your personal budget away from prying eyes.
+  fr:
+feature_cloud_sync:
+  en: Cloud Sync
+  fr:
+feature_cloud_sync_description:
+  en: Benefit from budgets being automatically saved in the Cloud.
+  fr:
+feature_no_eavesdropping:
+  en: No Eavesdropping
+  fr:
+feature_no_eavesdropping_description:
+  en: Avoid fraud by not having to provide banking information.
+  fr:
+feature_data_exports:
+  en: Data Exports
+  fr:
+feature_data_exports_description:
+  en: Export budgets to spreadsheets.
+  fr:
+
 faq_title:
   en: FAQ
   fr: FAQ
