@@ -497,23 +497,25 @@ for (var i = 0; i < textOverImages.length; i++) {
     }
 }
 
-// scroll URL hashtags update
-$(function () {
-    var currentHash = "#one"
+// console.log(new URL(window.location.href).hash);
 
-    $(document).scroll(function () {
-        $('.hash').each(function () {
-            var top = window.pageYOffset;
-            var distance = top - $(this).offset().top;
-            var hash = $(this).attr('href');
+// // scroll URL hashtags update
+// $(function () {
+//     var currentHash = "#one"
+
+//     $(document).scroll(function () {
+//         $('.hash').each(function () {
+//             var top = window.pageYOffset;
+//             var distance = top - $(this).offset().top;
+//             var hash = $(this).attr('href');
             
-            if (distance < 100 && distance > -100 && currentHash != hash) {
-                currentHash = hash;
-                history.replaceState(null, null, hash);
-            }
-        });
-    });
-});
+//             if (distance < 100 && distance > -100 && currentHash != hash) {
+//                 currentHash = hash;
+//                 history.replaceState(null, null, hash);
+//             }
+//         });
+//     });
+// });
 
 
 
