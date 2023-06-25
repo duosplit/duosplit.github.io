@@ -166,58 +166,58 @@ download_the_app:
 
 feature_realtime_accounting:
   en: Realtime Accounting
-  fr:
+  fr: Comptabilité instantannée
 feature_realtime_accounting_description:
   en: Always know how much you owe to your partner.
-  fr:
+  fr: Sachez toujours combien vous devez à votre partenaire.
 feature_separated_budgets:
   en: Separated Budgets
-  fr: 
+  fr: Budgets séparés
 feature_separated_budgets_description:
   en: Distinguish couple budget from personal ones.
-  fr:
+  fr: Distinguez le budget de couple des budgets personnels.
 feature_evolutive_budgets:
   en: Evolutive Budgets
-  fr:
+  fr: Budgets évolutifs
 feature_evolutive_budgets_description:
   en: Keep track of budgets that evolve over the years.
-  fr:
+  fr: Gardez une trace des budgets qui évoluent au fil des ans.
 feature_activity_log:
   en: Activity Log
-  fr:
+  fr: Journal d'activité
 feature_activity_log_description:
   en: Ensure transparency with indelible activity log.
-  fr:
+  fr: Assurez la transparence avec un journal d'activité indélébile.
 feature_inapp_reimbursement:
   en: In-App Reimbursements
-  fr: 
+  fr: Remboursements intégrés
 feature_inapp_reimbursement_description:
   en: Settle up with your partner.
-  fr:
+  fr: Réglez vos comptes avec votre partenaire.
 feature_private_budget:
   en: Private Budget
-  fr:
+  fr: Budget privé
 feature_private_budget_description:
   en: Keep your personal budget away from prying eyes.
-  fr:
+  fr: Gardez votre budget personnel à l'abri des regards indiscrets.
 feature_cloud_sync:
   en: Cloud Sync
-  fr:
+  fr: Synchronisation infonuagique
 feature_cloud_sync_description:
   en: Benefit from budgets being automatically saved in the Cloud.
-  fr:
+  fr: Bénéficiez d'une sauvegarde automatique des budgets dans l'infonuagique.
 feature_no_eavesdropping:
   en: No Eavesdropping
-  fr:
+  fr: Anti-fraude
 feature_no_eavesdropping_description:
   en: Avoid fraud by not having to provide banking information.
-  fr:
+  fr: Évitez la fraude en n'ayant pas à fournir d'informations bancaires.
 feature_data_exports:
   en: Data Exports
-  fr:
+  fr: Données exportables
 feature_data_exports_description:
   en: Export budgets to spreadsheets.
-  fr:
+  fr: Exportez les budgets vers des feuilles de calcul.
 
 faq_title:
   en: FAQ
