@@ -452,20 +452,20 @@ if (thisForm) {
 
 
 
-// keep the scroll position for page refresh
-document.addEventListener("DOMContentLoaded", function (event) {
-    var scrollpos = localStorage.getItem('scrollpos');
-    var secondsSinceEpoch = Math.round(Date.now() / 1000);
-    var needToScroll = secondsSinceEpoch - localStorage.getItem('lastUnload') < 0.5;
+// // keep the scroll position for page refresh
+// document.addEventListener("DOMContentLoaded", function (event) {
+//     var scrollpos = localStorage.getItem('scrollpos');
+//     var secondsSinceEpoch = Math.round(Date.now() / 1000);
+//     var needToScroll = secondsSinceEpoch - localStorage.getItem('lastUnload') < 0.5;
 
-    if (scrollpos && needToScroll) {
-        if ($(this).scrollTop() > 10) {
-            $('#header').addClass('header-scrolled');
-        } else {
-            $('#header').removeClass('header-scrolled');
-        }
-    }
-});
+//     if (scrollpos && needToScroll) {
+//         if ($(this).scrollTop() > 10) {
+//             $('#header').addClass('header-scrolled');
+//         } else {
+//             $('#header').removeClass('header-scrolled');
+//         }
+//     }
+// });
 
 if (window.scrollY > (10)) {
     $('#header').addClass('header-scrolled');
@@ -497,7 +497,7 @@ for (var i = 0; i < textOverImages.length; i++) {
     }
 }
 
-// scroll URL hastags update
+// scroll URL hashtags update
 $(function () {
     var currentHash = "#one"
 
