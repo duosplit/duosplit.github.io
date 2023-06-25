@@ -279,6 +279,10 @@ button:focus {
   font-size: 4rem;
 }
 
+.text-center > * {
+  text-align: center !important;
+}
+
 .text-gradient {
   background: -webkit-linear-gradient(#8ac926, #1982c4);
   background-clip: text;
