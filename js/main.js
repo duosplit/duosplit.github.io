@@ -497,8 +497,6 @@ for (var i = 0; i < textOverImages.length; i++) {
     }
 }
 
-console.log(new URL(window.location.href).hash);
-
 // scroll URL hashtags update
 function hashtagScroll() {
     var currentHash = new URL(window.location.href).hash
@@ -518,8 +516,6 @@ function hashtagScroll() {
 }
 
 setTimeout(hashtagScroll, 1500);
-
-
 
 
 // Tippy tooltips
