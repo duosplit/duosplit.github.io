@@ -120,7 +120,7 @@ $(document).ready(function () {
 
                 $('html, body').animate({
                     scrollTop: target.offset().top - top_space
-                }, 0, 'easeInOutExpo');
+                }, 1500, 'easeInOutExpo');
 
                 if ($(this).parents('.nav-menu').length) {
                     $('.nav-menu .menu-active').removeClass('menu-active');
