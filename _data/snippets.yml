@@ -263,6 +263,14 @@ faq_items:
       fr: |
         Maintenir un budget de couple amène des préoccupations et c’est dans ce domaine que Duo Split se démarque. La séparation des dépenses de couple et la comptabilisation des sommes dues entre partenaires en temps réel sont les éléments caractérisant Duo Split.
   - q:
+      en: Can I use Duo Split to split travel expenses with friends?
+      fr: Puis-je utiliser Duo Split pour partager les frais de voyage avec des amis ?
+    a:
+      en: |
+        Duo Split is designed for long-term budget commitment of couples. A simple expense splitting app (e.g. <em>Splitwise</em>) is enough for travel expense splitting or to reach other short-term goals.
+      fr: |
+        Duo Split est conçu pour l'engagement budgétaire à long terme des couples. Une simple application de séparation des dépenses (ex: <em>Splitwise</em>) suffit pour séparer les frais de voyage ou pour atteindre d'autres objectifs à court terme.
+  - q:
       en: Can I use Duo Split even if my partner doesn't use it?
       fr: Puis-je utiliser Duo Split même si mon partenaire ne l'utilise pas?
     a:
