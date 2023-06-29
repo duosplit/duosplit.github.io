@@ -283,9 +283,9 @@ faq_items:
       fr: Est-ce possible d'inscrire mes entrées d'argent dans Duo Split?
     a:
       en: |
-        No. In general, cash inflows are more constant than cash outflows. Bi-annually reassessing cash inflows is enough, while expenses vary constantly.
+        No. Duo Split exclusively addresses challenges related to expenses.
       fr: |
-        Non. De façon générale, les entrées d'argent sont plus constantes que les sorties d’argent. Réévaluer bi-annuellement les entrées d’argent suffit, alors que les dépenses varient constamment.
+        Non. Duo Split adresse exclusivement aux problématiques liées aux dépenses.
   - q:
       en: Is Duo Split free?
       fr: Est-ce que Duo Split est gratuit?
