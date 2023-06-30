@@ -70,6 +70,9 @@ img_path:
 discover:
   en: Discover Duo Split!
   fr: Découvrez Duo Split!
+try_demo:
+  en: Try it for free
+  fr: Essayer gratuitement
 try_demo_part1:
   en: Try it now for
   fr: Essayez
