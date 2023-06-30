@@ -276,6 +276,12 @@
     }
 }
 
+@media (max-width: 576px) {
+    #app-subtitle {
+        display: none !important;
+    }
+}
+
 /* Mobile Nav Styling */
 
 #mobile-nav {
