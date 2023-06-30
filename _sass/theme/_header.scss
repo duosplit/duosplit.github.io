@@ -271,7 +271,7 @@
     // #mobile-nav-toggle {
     //     display: inline;
     // }
-    #nav-menu-container {
+    #nav-menu-container li:not(#switch_lang) {
         display: none;
     }
 }
