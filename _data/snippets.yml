@@ -295,13 +295,13 @@ faq_items:
       fr: |
         Oui! Duo Split est gratuit jusqu'à 10 dépenses par budget par mois. Cette restriction peut être enlevée pour 3$ par mois, payé annuellement, pour le bien être de vos finances.
   - q:
-      en: Does an expense made by payment card end up in Duo Split?
-      fr: Est-ce qu'une dépense faite par carte de paiement se retrouve dans Duo Split?
+      en: Can I link my credit card with Duo Split?
+      fr: Puis-je lier ma carte de crédit à Duo Split?
     a:
       en: |
-        No. There are no personal or banking information saved in Duo Split. There is therefore no risk of identity theft.
+        No. There are no banking information saved in Duo Split. There is therefore no risk of identity theft.
       fr: |
-        Non. Aucune information personnelle ou bancaire n'est inscrite dans Duo Split. Il n'y a donc aucun risque d’usurpation d’identité.
+        Non. Aucune information bancaire n'est inscrite dans Duo Split. Il n'y a donc aucun risque d’usurpation d’identité.
   - q:
       en: How is the security of my personal data ensured?
       fr: Comment la sécurité de mes informations personnelles est-elle assurée?
