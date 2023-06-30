@@ -251,9 +251,9 @@ faq_items:
       fr: Quelles sont les avantages de Duo Split par rapport à un compte conjoint?
     a:
       en: |
-        The joint account is the intuitive solution for couples having no alternative to maintain a fair and equitable budget. However, a breach of trust or separation threatens access to a joint account at any time. Using Duo Split allows you to have the simplicity of a joint account without the hassle. Duo Split also supports joint accounts, for couples using a joint account.
+        People often confuse the joint account with Duo Split. One is a payment method while the other is a budget and expense splitting tool. For couples using Duo Split, a joint account adds no benefits since money can be managed through individual bank accounts. Even people with joint accounts benefit from Duo Split's budget and expense tracking features since this payment method is supported in Duo Split.
       fr: |
-        Le compte conjoint est la solution intuitive pour les couples n'ayant pas d'alternative pour maintenir un budget juste et équitable. Cependant, un bris de confiance ou une séparation menace à tout moment l'accès à un compte conjoint. Utiliser Duo Split permet d'avoir la simplicité d'un compte conjoint sans ses tracas. Duo Split supporte aussi les comptes conjoints, conçue pour les couples utilisant un compte conjoint.
+        Les gens confondent souvent le compte joint avec Duo Split. L'un est un mode de paiement tandis que l'autre est un outil de budget et de séparation de dépenses. Pour les couples utilisant Duo Split, un compte joint n'apporte aucun avantage puisque l'argent peut être géré via des comptes bancaires individuels. Même les personnes ayant des comptes joints bénéficient des fonctionnalités de suivi du budget et des dépenses de Duo Split puisque ce mode de paiement est pris en charge dans Duo Split.
   - q: 
       en: What are the differences between Duo Split and other personal finance apps?
       fr: Quelles sont les différences entre Duo Split et les autres applications de finances personnelles?
@@ -279,7 +279,7 @@ faq_items:
       fr: |
         Oui. Il suffit d'ajouter les dépenses de couple via votre compte Duo Split en spécifiant qui a payé.
   - q:
-      en: Is it possible to register my incomes in Duo Split?
+      en: Is it possible to track my incomes in Duo Split?
       fr: Est-ce possible d'inscrire mes entrées d'argent dans Duo Split?
     a:
       en: |
