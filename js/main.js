@@ -7,6 +7,15 @@ if (!onFrenchPage && userLang.includes("fr") && !onVolunteerEnglishPage) {
     window.location = '/fr';
 }
 
+// Header scroll class
+$(window).scroll(function () {
+    if ($(this).scrollTop() > 10) {
+        $('#header').addClass('header-scrolled');
+    } else {
+        $('#header').removeClass('header-scrolled');
+    }
+});
+
 
 $(document).ready(function () {
     "use strict";
@@ -164,16 +173,6 @@ $(document).ready(function () {
 
         }
 
-    });
-
-
-    // Header scroll class
-    $(window).scroll(function () {
-        if ($(this).scrollTop() > 10) {
-            $('#header').addClass('header-scrolled');
-        } else {
-            $('#header').removeClass('header-scrolled');
-        }
     });
 
     // Owl Carousel
