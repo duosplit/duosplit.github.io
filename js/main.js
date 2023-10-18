@@ -517,21 +517,21 @@ for (var i = 0; i < textOverImages.length; i++) {
 // setTimeout(hashtagScroll, 1500);
 
 
-// Tippy tooltips
-const kickstarterTemplate = document.getElementById('kickstarterTemplate');
+// // Tippy tooltips
+// const kickstarterTemplate = document.getElementById('kickstarterTemplate');
 
-$(document).ready(function () {
-    if (kickstarterTemplate !== null) {
-        tippy('#downloadAppStore', {
-            content: kickstarterTemplate.innerHTML,
-            allowHTML: true,
-            showOnCreate: false,
-            delay: 0,
-            hideOnClick: true,
-            trigger: 'mouseenter click',
-            placement: 'bottom',
-            interactive: true,
-            zIndex: 1
-        })
-    }
-});
+// $(document).ready(function () {
+//     if (kickstarterTemplate !== null) {
+//         tippy('#downloadAppStore', {
+//             content: kickstarterTemplate.innerHTML,
+//             allowHTML: true,
+//             showOnCreate: false,
+//             delay: 0,
+//             hideOnClick: true,
+//             trigger: 'mouseenter click',
+//             placement: 'bottom',
+//             interactive: true,
+//             zIndex: 1
+//         })
+//     }
+// });

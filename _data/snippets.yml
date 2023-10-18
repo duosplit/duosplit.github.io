@@ -297,9 +297,9 @@ faq_items:
       fr: Est-ce que Duo Split est gratuit?
     a:
       en: |
-        Yes! Duo Split is free up to 10 expenses per budget per month. This limitation can be removed for $3 per month, paid annually, for the well-being of your finances.
+        Yes!
       fr: |
-        Oui! Duo Split est gratuit jusqu'à 10 dépenses par budget par mois. Cette restriction peut être enlevée pour 3$ par mois, payé annuellement, pour le bien être de vos finances.
+        Oui!
   - q:
       en: Can I link my credit card with Duo Split?
       fr: Puis-je lier ma carte de crédit à Duo Split?
@@ -355,6 +355,9 @@ newsletter_email_action:
 coming_soon:
   en: Coming soon!
   fr: Bientôt disponible!
+not_available:
+  en: Not available
+  fr: Non disponible
 origin_text:
   en: |
     The separation of expenses in an equitable way is essential in a couple. Just thinking about the number of daily expenses, it is normal that money is one of the main causes of conflict in couples. It is important to develop a realistic budget. Making a budget is one thing, sticking to it is another. Mismanaged joint accounts, hidden expenses between partners or even sums of money that disappear inexplicably are all sad scenarios that unfortunately happen too often. The causes are often a lack of financial education, a lack of communication or poor budget monitoring. Having the right tools to respect to your budget is essential.
