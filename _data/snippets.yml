@@ -134,8 +134,8 @@ features:
   en: Features
   fr: Fonctionnalités
 origin:
-  en: Origin
-  fr: Origine
+  en: Mission
+  fr: Mission
 overview_panel_info:
   en: All the benefits of a joint account without their drawbacks. Say hello to Duo Split and easily manage your joint expenses. Either keep an expense in your personal budget or put it in the couple budget by specifying who paid which share. It's your choice to separate expenses according to a proportion, a specific amount or the incomes of the partners. Your personal budget can only be seen by you. In-app reimbursements and auto-accounting is what will make you fall in love with Duo Split.
   fr: Tous les avantages d'un compte conjoint sans leurs désavantages. Saluez Duo Split et gérez facilement vos dépenses communes. Gardez une dépense soit dans votre budget personnel ou votre budget de couple en précisant qui a payé quelle part. C'est votre choix de séparer les dépenses selon une proportion, un montant précis ou les revenus des partenaires. Votre budget personnel ne peut être vu que par vous. Les remboursements intégrés à même l'application et la comptabilité automatique sont les atouts qui vous feront tomber en amour avec Duo Split. 
@@ -360,15 +360,11 @@ not_available:
   fr: Non disponible
 origin_text:
   en: |
-    The separation of expenses in an equitable way is essential in a couple. Just thinking about the number of daily expenses, it is normal that money is one of the main causes of conflict in couples. It is important to develop a realistic budget. Making a budget is one thing, sticking to it is another. Mismanaged joint accounts, hidden expenses between partners or even sums of money that disappear inexplicably are all sad scenarios that unfortunately happen too often. The causes are often a lack of financial education, a lack of communication or poor budget monitoring. Having the right tools to respect to your budget is essential.
+    Money is one of the main causes of conflict in couples. Separating personal budgets from the one of the couple and having good debt management inside a couple is time-consuming. There are a lot of mobile applications for managing personal budgets, and a wide variety for splitting expenses, but rare are the ones that are built for couples.
     
     <br><br>
     
-    There are a variety of mobile applications for tracking a budget, a wide variety for separating expenses, but rare are the ones that combines these two aspects at the same time, while addressing the specific challenges of couples. Managing expenses remains an issue within couples. A clear separation between personal and couple budgets must be defined.
-    
-    <br><br>
-    
-    It's in 2018 that the Duo Split mobile application is born to manage budgets and keep track of the couple expenses of its creator and the ones of its couple. At first, the idea was to use an existing mobile application to avoid reinventing the wheel. Surprisingly, none of them had the capacity to manage evolving budgets and keep track of couple expenses in a practical way. After getting interest from people who struggled to manage couple expenses, the application has been adapted to allow several couples to benefit from this tool as well. Specifically designed for couples by a seasoned software engineer, Duo Split encourages a systematic separation of couple and personal expenses into separate budgets to avoid misunderstandings. It's never been easier to know at a glance how much you owe your partner and instantly know if you respect your budget. Used by its creator since its creation, Duo Split gets refined year after year.
+    Duo Split is specifically designed for couples by a seasoned software engineer passionate about personal finances. It's now easier than before to manage evolving budgets, know at a glance how much you owe your partner and if you respect your budgets. Having a good budget and debt management in your couple is the best way towards your financial independence!
   fr: |
     La séparation des dépenses de façon équitable est primordiale dans un couple. Juste à penser au nombre de dépenses au quotidien, il est normal que l’argent soit l'une des principales causes de conflits dans les couples. Il est important d’élaborer un budget réaliste. Faire un budget est une chose, le respecter en est une autre. Des comptes conjoints mal gérés, des dépenses cachées entre partenaires ou bien même des sommes d'argent qui disparaissent de façon inexplicable sont tous de tristes scénarios qui arrivent malheureusement trop souvent. Les causes sont souvent un manque d'éducation financière, un manque de communication ou un mauvais suivi budgétaire. Se munir de bons outils pour respecter son budget est primordial. 
     
