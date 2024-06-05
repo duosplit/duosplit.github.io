@@ -133,7 +133,7 @@ contact:
 features:
   en: Features
   fr: Fonctionnalités
-origin:
+mission:
   en: Mission
   fr: Mission
 overview_panel_info:
@@ -163,9 +163,9 @@ let_others_know:
 medias:
   en: Medias
   fr: Médias
-origin_title:
-  en: Origin
-  fr: Origine
+mission_title:
+  en: Mission
+  fr: Mission
 download_the_app:
   en: It's now up to you to take control of your couple spendings with Duo Split!
   fr: C’est maintenant à vous de prendre contrôle de vos dépenses de couple avec Duo Split! 
@@ -358,7 +358,7 @@ coming_soon:
 not_available:
   en: Not available
   fr: Non disponible
-origin_text:
+mission_text:
   en: |
     Money is one of the main causes of conflict in couples. Separating personal budgets from the one of the couple and having good sharing of expenses inside a couple is time-consuming. There are a lot of mobile applications for managing personal budgets, and a wide variety for splitting expenses, but rare are the ones that are built for couples.
     
