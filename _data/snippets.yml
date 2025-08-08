@@ -56,8 +56,8 @@ privacy_policy:
   en: Privacy policy
   fr: Politique de vie privée
 privacy_policy_url:
-  en: politiques/confidentialite.html
-  fr: politiques/confidentialite_en.html
+  en: /politiques/confidentialite.html
+  fr: /politiques/confidentialite_en.html
 privacy_policy_url_inverse:
   en: vie_privee.html
   fr: privacy.html
