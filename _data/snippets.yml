@@ -168,7 +168,7 @@ mission_title:
   fr: Mission
 download_the_app:
   en: It's now up to you to take control of your couple spendings with Duo Split!
-  fr: C’est maintenant à vous de prendre contrôle de vos dépenses de couple avec Duo Split! 
+  fr: C'est maintenant à vous de prendre contrôle de vos dépenses de couple avec Duo Split! 
 
 feature_realtime_accounting:
   en: Realtime Accounting
@@ -267,7 +267,7 @@ faq_items:
       en: |
         Maintaining a couple budget brings concerns and it is in this area that Duo Split stands out. The separation of the couple's expenses and the accounting of the sums due between partners in real time are the elements characterizing Duo Split.
       fr: |
-        Maintenir un budget de couple amène des préoccupations et c’est dans ce domaine que Duo Split se démarque. La séparation des dépenses de couple et la comptabilisation des sommes dues entre partenaires en temps réel sont les éléments caractérisant Duo Split.
+        Maintenir un budget de couple amène des préoccupations et c'est dans ce domaine que Duo Split se démarque. La séparation des dépenses de couple et la comptabilisation des sommes dues entre partenaires en temps réel sont les éléments caractérisant Duo Split.
   - q:
       en: Can I use Duo Split to split travel expenses with friends?
       fr: Puis-je utiliser Duo Split pour partager les frais de voyage avec des amis ?
@@ -307,7 +307,7 @@ faq_items:
       en: |
         No. There are no banking information saved in Duo Split. There is therefore no risk of identity theft.
       fr: |
-        Non. Aucune information bancaire n'est inscrite dans Duo Split. Il n'y a donc aucun risque d’usurpation d’identité.
+        Non. Aucune information bancaire n'est inscrite dans Duo Split. Il n'y a donc aucun risque d'usurpation d'identité.
   - q:
       en: How is the security of my personal data ensured?
       fr: Comment la sécurité de mes informations personnelles est-elle assurée?
@@ -315,7 +315,7 @@ faq_items:
       en: |
         Duo Split is not associated with any financial institution or third party. No data is taken from your bank accounts. No data is sold to a third party. Data transmission with Duo Split's Cloud is done via a secure connection similar to the one used by the banks. Rest assured that expenses in your personal budget are only visible to you.
       fr: |
-        Duo Split n’est associé à aucune institution financière ni tierce partie. Aucune donnée ne provient de vos comptes bancaires. Aucune donnée n'est vendue à une tierce partie. La transmission des données avec l'infonuagique de Duo Split se fait via une connexion sécurisée semblable à celle utilisée par les banques. Restez assuré que les dépenses figurant dans votre budget personnel ne sont visibles que par vous.
+        Duo Split n'est associé à aucune institution financière ni tierce partie. Aucune donnée ne provient de vos comptes bancaires. Aucune donnée n'est vendue à une tierce partie. La transmission des données avec l'infonuagique de Duo Split se fait via une connexion sécurisée semblable à celle utilisée par les banques. Restez assuré que les dépenses figurant dans votre budget personnel ne sont visibles que par vous.
   - q:
       en: Can I back up my data to a spreadsheet?
       fr: Puis-je sauvegarder mes données vers un classeur?
@@ -323,7 +323,7 @@ faq_items:
       en: |
         Yes. It is possible to export Duo Split data to a spreadsheet in order to do advanced calculations, visualizations or simply archive your data.
       fr: |
-        Oui. Il est possible d’exporter les données de Duo Split vers un classeur, afin des faire des calculs avancés, des visualisations ou simplement archiver vos données.
+        Oui. Il est possible d'exporter les données de Duo Split vers un classeur, afin des faire des calculs avancés, des visualisations ou simplement archiver vos données.
   - q:
       en: Is this solution approved by a financial authority?
       fr: Est-ce que cette solution est homologuée par une autorité financière?
@@ -364,10 +364,10 @@ mission_text:
     
     <br><br>
     
-    Duo Split is specifically designed for couples by a seasoned software engineer passionate about personal finances. It's now easier than before to manage evolving budgets, know at a glance how much you owe your partner and if you respect your budgets. Having a good budget and sharing of expenses in your couple is the best way towards your financial independence!
+    Duo Split is specifically designed for couples by a seasoned software developer passionate about personal finances. It's now easier than before to manage evolving budgets, know at a glance how much you owe your partner and if you respect your budgets. Having a good budget and sharing of expenses in your couple is the best way towards your financial independence!
   fr: |
-    L’argent est l’une des principales causes de conflits dans les couples. Séparer les budgets personnels de celui du couple et avoir une bonne gestion du partage des dépenses au sein d'un couple prend du temps. Il existe de nombreuses applications mobiles pour gérer les budgets personnels et une grande variété pour partager les dépenses, mais rares sont celles conçues pour les couples. 
+    L'argent est l'une des principales causes de conflits dans les couples. Séparer les budgets personnels de celui du couple et avoir une bonne gestion du partage des dépenses au sein d'un couple prend du temps. Il existe de nombreuses applications mobiles pour gérer les budgets personnels et une grande variété pour partager les dépenses, mais rares sont celles conçues pour les couples. 
     
     <br><br>
     
-    Duo Split est spécialement conçu pour les couples par un ingénieur logiciel chevronné passionné par les finances personnelles. Il est désormais plus simple qu'avant de gérer des budgets évolutifs, de savoir en un coup d'œil combien vous devez à votre partenaire et si vous respectez vos budgets. Avoir un bon budget et une saine gestion du partage des dépenses dans votre couple est la meilleure voie vers votre indépendance financière!
+    Duo Split est spécialement conçu pour les couples par un développeur logiciel chevronné passionné par les finances personnelles. Il est désormais plus simple qu'avant de gérer des budgets évolutifs, de savoir en un coup d'œil combien vous devez à votre partenaire et si vous respectez vos budgets. Avoir un bon budget et une saine gestion du partage des dépenses dans votre couple est la meilleure voie vers votre indépendance financière!
